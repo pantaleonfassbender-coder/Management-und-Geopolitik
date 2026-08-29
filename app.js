@@ -39,7 +39,7 @@ function viewOverview() {
       Geführten schuldet. Bevor es Business Schools gab, wurden diese Fragen — oft um den Preis von
       Städten — von Historikern, Kameralisten, Philosophen und Soldaten durchgearbeitet, deren Bücher
       heute gemeinfrei und weitgehend ungelesen sind. Diese Seite ist ein kuratierter Apparat von
-      zwölf solchen Texten, überwiegend deutschsprachige Originale von Hörnigk bis Max Weber, dazu
+      dreizehn solchen Texten, überwiegend deutschsprachige Originale von Hörnigk bis Max Weber, dazu
       Thukydides in gemeinfreier deutscher Übersetzung: jeder mit wissenschaftlicher Kopfnote,
       wörtlichen Exzerpten mit absatzgenauen Zitierankern und einer Führungsperspektive — samt
       Brücken zu Werkzeugen, die diese Lesart auf die Gegenwart anwenden.</p>
@@ -56,9 +56,9 @@ function viewOverview() {
       <div class="card linie-trade">
         <h3>Die Linie des Handels</h3>
         <p class="fine">Wirtschaft als Macht — die deutsche Debatte</p>
-        <p>Hörnigk · Kant · List · Rathenau — vom Kameralismus über den Handelsgeist und den
-        Erziehungszoll bis zur Rohstoffbewirtschaftung von 1914: der vollständige Argumentations-
-        raum zwischen Verflechtung und Versorgungssicherheit.</p>
+        <p>Hörnigk · Kant · List · Luxemburg · Rathenau — vom Kameralismus über Handelsgeist und
+        Erziehungszoll bis zur Theorie des Expansionszwangs und zur Rohstoffbewirtschaftung von
+        1914: der vollständige Argumentationsraum zwischen Verflechtung und Versorgungssicherheit.</p>
       </div>
       <div class="card linie-strat">
         <h3>Die Linie der Strategie</h3>
@@ -84,7 +84,7 @@ function viewOverview() {
         <h3>Atlas</h3>
         <p>Die Begriffslandkarte des Korpus: seine Leitwörter — Krieg, Macht, Staat, Volk, Handel —
         verknüpft, wo sie in derselben Passage stehen, eingefärbt nach Linien. Ein Klick zeigt, wie
-        zwölf Werke über 2300 Jahre ein Vokabular teilen. <a href="#/atlas">Zum Atlas →</a></p>
+        dreizehn Werke über 2300 Jahre ein Vokabular teilen. <a href="#/atlas">Zum Atlas →</a></p>
       </div>
       <div class="card">
         <h3>Anwendungen</h3>
@@ -95,7 +95,7 @@ function viewOverview() {
       </div>
       <div class="card">
         <h3>Einführung</h3>
-        <p>Warum diese zwölf Texte; was „Lektionen der Geschichte“ leisten können und was nicht
+        <p>Warum diese dreizehn Texte; was „Lektionen der Geschichte“ leisten können und was nicht
         (Koselleck!); wie man Analogien nutzt, ohne von ihnen benutzt zu werden — und wie diese
         Seite mit dem belasteten Erbe des Wortes „Geopolitik“ umgeht.
         <a href="#/introduction">Zur Einführung →</a></p>
@@ -186,7 +186,8 @@ function viewIntroduction() {
     Krisen, Bismarck das Koalitionsmanagement, Weber die Verantwortung. <strong
     style="color:var(--trade)">Handel.</strong> Hörnigk formuliert 1684 die Neun Regeln der
     Wertschöpfungskontrolle; Kant setzt 1795 den Handelsgeist und das Weltbürgerrecht dagegen;
-    List 1841 die produktiven Kräfte und die weggeworfene Leiter; Rathenau 1915 die
+    List 1841 die produktiven Kräfte und die weggeworfene Leiter; Luxemburg fragt 1913, warum
+    das System als Ganzes expandieren muss und was Anleihen mit jungen Staaten machen; Rathenau organisiert 1915 die
     Versorgungssicherheit als Führungsaufgabe. Zusammen bilden sie den vollständigen
     Argumentationsraum, in dem sich jede deutsche Debatte über Wirtschaft und Sicherheit bis heute
     bewegt — meist ohne ihre Ahnen zu kennen. <strong style="color:var(--strat)">Strategie.</strong>
@@ -219,9 +220,10 @@ function viewIntroduction() {
     Ratzels Organizismus samt seiner toxischen Wirkungsgeschichte. Sie gut zu lesen heißt, die
     Struktur zu gewinnen und die Ideologie zurückzulassen; die Führungsperspektiven zu jedem Werk
     ziehen diese Grenze ausdrücklich. Der Korpus ist auch nicht vollständig: Er ist auf gemeinfreie
-    Texte beschränkt, was das 20. Jahrhundert weitgehend ausschließt; er enthält keine Autorin —
-    ein Befund, der die Schreibverhältnisse vor 1919 dokumentiert und auf der Methodenseite mit
-    Kandidatinnen für eine Erweiterung (Bertha von Suttner, Rosa Luxemburg) beantwortet wird.
+    Texte beschränkt, was das 20. Jahrhundert weitgehend ausschließt; und er enthielt in seiner
+    Erstfassung keine Autorin — ein Befund über die Schreibverhältnisse vor 1919, auf den die
+    Aufnahme Rosa Luxemburgs als Analytikerin der Handelslinie die erste Antwort ist; Bertha von
+    Suttner bleibt Kandidatin für eine künftige Gegenstimmen-Linie (Methodenseite).
     Und nichts hier ist Anlage-, Rechts- oder Politikberatung: Dies ist ein Lektüreapparat — die
     Quellen selbst, so angeordnet, dass eine arbeitende Führungskraft sie so befragen kann, wie
     die Tradition es empfiehlt: langsam, vergleichend, mit offener Unterschiedsspalte.</p>
@@ -249,7 +251,7 @@ function viewWorks() {
   const wrap = el(`<div>
     <div class="viewhead">
       <span class="tag">Der Korpus</span>
-      <h1>Zwölf Werke, drei Linien</h1>
+      <h1>Dreizehn Werke, drei Linien</h1>
       <p class="lede">Jedes Werk öffnet einen Lesesaal: wissenschaftliche Kopfnote, wörtliche
       Exzerpte mit absatzgenauen Zitierankern, Führungsperspektive. Alle Texte sind gemeinfrei,
       in den auf der <a href="#/method">Methodenseite</a> nachgewiesenen Ausgaben.</p>
@@ -354,7 +356,8 @@ const THEMES = [
       { w: "thukydides", s: "i23", k: "1", g: "Machtentwickelung und Furcht: die eigentliche Ursache" },
       { w: "kant", s: "prae3", k: "1", g: "Die Rüstungsspirale: Bereitschaft selbst wirkt als Drohung" },
       { w: "bismarck", s: "praeventiv", k: "1", g: "Gegen den Präventivkrieg: die Dritten bleiben nicht neutral" },
-      { w: "ratzel", s: "meer", k: "2", g: "Das Meer steigert Raummaßstäbe und Raumansprüche" }
+      { w: "ratzel", s: "meer", k: "2", g: "Das Meer steigert Raummaßstäbe und Raumansprüche" },
+      { w: "luxemburg", s: "schluss", k: "3", g: "Der Expansionszwang: die erste Wirtschaftsform, die ein Außen braucht" }
     ]
   },
   {
@@ -398,6 +401,7 @@ const THEMES = [
       { w: "hoernigk", s: "k9", k: "2", g: "Das Veredelungsgebot: der Lohn der Fabricatur" },
       { w: "kant", s: "handel", k: "1", g: "Der Handelsgeist, der mit dem Kriege nicht bestehen kann" },
       { w: "list", s: "kraefte", k: "1", g: "Die Kraft, Reichtümer zu schaffen, schlägt den Reichtum" },
+      { w: "luxemburg", s: "anleihen", k: "2", g: "Anleihen: emanzipieren und bevormunden zugleich" },
       { w: "rathenau", s: "zukunft", k: "1", g: "Unabhängig vom Wohlwollen des Verkäufers und des Gläubigers" },
       { w: "ratzel", s: "lage", k: "2", g: "Perim oder Singapur: die Lage korrigiert die Überschätzung des Raumes" }
     ]
@@ -484,8 +488,8 @@ async function viewAtlas() {
       verwenden (<span style="color:var(--state)">Staatskunst</span> ·
       <span style="color:var(--trade)">Handel</span> ·
       <span style="color:var(--strat)">Strategie</span>); die Größe die Häufigkeit. Ein Klick zeigt
-      Nachbarn und Belegstellen — eine Begriffslandkarte, auf der zwölf Werke aus 2300 Jahren ein
-      Vokabular teilen.</p></div>
+      Nachbarn und Belegstellen — eine Begriffslandkarte, auf der dreizehn Werke aus 2300 Jahren
+      ein Vokabular teilen.</p></div>
     <div class="toolbar">
       <label class="fine" for="dens">Dichte</label>
       <select id="dens">
@@ -728,9 +732,9 @@ function viewMethod() {
       <p class="readable">Drei Regeln bestimmen den Korpus. <strong>Gemeinfreiheit:</strong> Jedes
       Wort Primärtext auf dieser Seite ist gemeinfrei — deutschsprachige Originale nach Ablauf der
       Schutzfristen, Thukydides in einer gemeinfreien Übersetzung; kein Exzerpt stützt sich auf
-      Zitatrecht. <strong>Höchstens zwölf Werke,</strong> ausgewählt nach Strukturertrag für Führung
+      Zitatrecht. <strong>Dreizehn Werke</strong> (die Zwölfer-Grenze der Erstfassung wurde für Luxemburg um eins erweitert), ausgewählt nach Strukturertrag für Führung
       und Geopolitik, nicht nach Berühmtheit, geordnet in drei Linien (Staatskunst, Handel,
-      Strategie). <strong>Deutschsprachige Quellen als generelle Linie:</strong> elf der zwölf Werke
+      Strategie). <strong>Deutschsprachige Quellen als generelle Linie:</strong> zwölf der dreizehn Werke
       sind deutschsprachige Originale; Thukydides steht als Weltklassiker-Anker in deutscher
       Übersetzung — die Begründung gibt die <a href="#/introduction">Einführung</a>, § 2.
       <strong>Exzerpte, keine Denkmäler:</strong> Jedes Werk ist mit seinen analytisch tragenden
@@ -762,6 +766,7 @@ function viewMethod() {
         <tr><td>Burckhardt, <em>Weltgeschichtliche Betrachtungen</em></td><td>hg. Oeri 1905; Digitalisierung Projekt Gutenberg-DE (Ausgabe Stadelmann 1949)</td><td><a href="https://www.projekt-gutenberg.org/burckhar/weltgesc/" rel="noopener">Projekt Gutenberg-DE</a></td></tr>
         <tr><td>Ratzel, <em>Politische Geographie</em> · <em>Das Meer</em></td><td>Erstausgaben Oldenbourg 1897 / 1900</td><td><a href="https://archive.org/details/politischegeogra00ratzuoft" rel="noopener">archive.org (1897)</a> · <a href="https://archive.org/details/ratzel-1900-das-meer-als-quelle-der-volkergrosse.-eine-politisch-geographische-studie" rel="noopener">archive.org (1900)</a></td></tr>
         <tr><td>Bismarck, <em>Gedanken und Erinnerungen</em></td><td>zeno.org (Ausgabe 1959); Kernstellen kollationiert mit Cotta 1898</td><td><a href="http://www.zeno.org/Geschichte/M/Bismarck,+Otto+von/Gedanken+und+Erinnerungen" rel="noopener">zeno.org</a> · <a href="https://www.deutschestextarchiv.de/book/show/bismarck_erinnerungen02_1898" rel="noopener">DTA (Erstausgabe)</a></td></tr>
+        <tr><td>Luxemburg, <em>Die Akkumulation des Kapitals</em></td><td>Erstausgabe Buchhandlung Vorwärts Paul Singer, Berlin 1913</td><td><a href="https://archive.org/details/rosa-luxemburg-die-akkumulation-des-kapitals_202503" rel="noopener">archive.org (Erstdruck-Scan)</a> · <a href="https://www.marxists.org/deutsch/archiv/luxemburg/1913/akkkap/" rel="noopener">MIA-Transkription</a></td></tr>
         <tr><td>Rathenau, <em>Deutschlands Rohstoffversorgung</em></td><td>Gesammelte Schriften Bd. 5, S. Fischer 1918, S. 23–58</td><td><a href="https://archive.org/details/gesammelteschrif05rathuoft" rel="noopener">archive.org (Toronto-Scan)</a></td></tr>
         <tr><td>Weber, <em>Politik als Beruf</em></td><td>Erstdruck Duncker &amp; Humblot 1919</td><td><a href="https://de.wikisource.org/wiki/Politik_als_Beruf" rel="noopener">Wikisource</a></td></tr>
       </table></div>
@@ -786,7 +791,12 @@ function viewMethod() {
       Wikisource-Vorlage („veranwortungsethisch“) ist zu „verantwortungsethisch“ korrigiert.
       <strong>Clausewitz</strong> — die Ausgabe der Clausewitz-Gesellschaft modernisiert die
       Orthographie der Erstausgabe behutsam (z. B. „daß“ bleibt, „Modifikation“ statt
-      „Modification“).</p>
+      „Modification“). <strong>Luxemburg</strong> — Kernstellen (Kap. 26, 30, 32 samt Schluss)
+      wurden am Fraktur-OCR des Erstdrucks 1913 Wort für Wort geprüft; langes ſ ist als s
+      wiedergegeben. Dokumentierte Editionsvariante: Der Erstdruck titelt Kapitel 32 „Der
+      Militarismus <em>als</em> Gebiet der Kapitalakkumulation“, die Werkausgabe „auf dem
+      Gebiet“; der Erstdruck liest „Kapitalherrschaft“ und „Entwickelung“, wo die Werkausgabe
+      „Kapitalsherrschaft“ und „Entwicklung“ hat — diese Seite folgt dem Erstdruck.</p>
     </div>
 
     <div class="panel">
@@ -823,11 +833,13 @@ function viewMethod() {
       Original französisch ist und die zeitgenössischen deutschen Übersetzungen editorisch heikel
       sind. Kautilya und Sun Tzu stehen im englischen Schwesterkorpus; die gemeinfreien deutschen
       Fassungen (J. J. Meyer 1926; Bruno Navarra 1910) sind Kandidaten für eine Erweiterung.
-      <strong>Bertha von Suttner</strong> (<em>Die Waffen nieder!</em>, 1889) und
-      <strong>Rosa Luxemburg</strong> (<em>Die Akkumulation des Kapitals</em>, 1913) sind die
-      nächstliegenden Kandidatinnen, den Befund „keine Autorin im Korpus“ zu beheben — die eine
-      als Gegenstimme zur Strategie-Linie, die andere als Theorie der ökonomischen Expansion;
-      beide gemeinfrei. Die strategischen Klassiker des weiteren 20. Jahrhunderts (Schelling,
+      <strong>Rosa Luxemburg</strong> wurde aus dieser Kandidatinnenliste inzwischen als Werk 13
+      in die Handelslinie aufgenommen. <strong>Bertha von Suttner</strong> (gemeinfrei; statt des
+      Romans <em>Die Waffen nieder!</em> eignen sich ihre essayistischen Texte, etwa die
+      Friedensnobelpreis-Rede von 1906) bleibt Kandidatin — allerdings für etwas anderes: den
+      Grundstein einer eigenen <em>Gegenstimmen-Linie</em> nach dem Vorbild der „counter-voices“
+      des Calculemus-Formats, falls der Korpus je um eine vierte Linie wachsen sollte. Die
+      strategischen Klassiker des weiteren 20. Jahrhunderts (Schelling,
       Aron, Kissinger) bleiben urheberrechtlich außer Reichweite dieser Regeln.</p>
     </div>
 

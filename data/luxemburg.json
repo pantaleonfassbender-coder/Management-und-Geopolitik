@@ -1,0 +1,68 @@
+{
+  "headnote": [
+    "Rosa Luxemburg (1871–1919) — Ökonomin, Lehrerin an der Parteischule der SPD, Mitgründerin des Spartakusbundes, im Januar 1919 von Freikorps-Soldaten ermordet — schrieb mit der „Akkumulation des Kapitals“ (1913) die einflussreichste deutschsprachige Theorie des ökonomischen Expansionszwangs. Ihre These: Die kapitalistische Akkumulation kann ihren Mehrwert nicht vollständig im eigenen System realisieren; sie braucht dauerhaft „Abnehmer außerhalb“ — nichtkapitalistische Schichten und Länder — und muss deshalb expandieren: über Außenhandel, Kolonien, internationale Anleihen und Militarismus. Der Kapitalismus ist bei ihr „die erste Wirtschaftsform mit propagandistischer Kraft“ — und zugleich die erste, die ohne ein Außen nicht existieren kann.",
+    "Die Fachökonomie hat den strengen Beweis nicht akzeptiert (die Unterkonsumtions-Annahme, die Kontroverse mit Otto Bauer); die Beschreibungsleistung der zweiten Werkhälfte — wie Anleihen bevormunden, wie Militarismus Märkte schafft, wie Expansion Peripherien umpflügt — ist davon unabhängig und liest sich heute als Frühgeschichte der Geoökonomie. Luxemburg ist die erste Autorin dieses Korpus, als Analytikerin auf Augenhöhe mit List und Weber. Text nach dem Erstdruck (Buchhandlung Vorwärts Paul Singer, Berlin 1913); die Kernstellen wurden am Fraktur-OCR des Erstdrucks Wort für Wort geprüft, langes ſ ist als s wiedergegeben."
+  ],
+  "sections": [
+    {
+      "id": "milieu",
+      "label": "Kapitel 26 — die Lebensfrage: Abnehmer außerhalb",
+      "cite": "AK 26",
+      "units": [
+        {
+          "k": "1",
+          "text": "Wir haben bis jetzt die erweiterte Reproduktion nur von einer Seite betrachtet, nämlich von der Frage aus: wie wird der Mehrwert realisiert? Dies war die Schwierigkeit, mit der sich die Skeptiker bis jetzt ausschließlich beschäftigten. Die Realisierung des Mehrwerts ist in der Tat die Lebensfrage der kapitalistischen Akkumulation. Sehen wir der Einfachheit halber ganz von dem Konsumtionsfonds der Kapitalisten ab, so erfordert die Realisierung des Mehrwerts als erste Bedingung einen Kreis von Abnehmern außerhalb der kapitalistischen Gesellschaft. Wir sagen: von Abnehmern und nicht: von Konsumenten. Denn die Realisierung des Mehrwerts besagt von vornherein gar nichts über die Sachgestalt des Mehrwerts. Das Entscheidende ist, daß der Mehrwert weder durch Arbeiter noch durch Kapitalisten realisiert werden kann, sondern durch Gesellschaftsschichten oder Gesellschaften, die selbst nicht kapitalistisch produzieren."
+        },
+        {
+          "k": "2",
+          "text": "Es sind dabei zwei verschiedene Fälle denkbar. Die kapitalistische Produktion liefert Konsumtionsmittel über den eigenen (der Arbeiter und Kapitalisten) Bedarf hinaus, deren Abnehmer nichtkapitalistische Schichten und Länder sind. Z. B. die englische Baumwollindustrie lieferte während der ersten zwei Drittel des 19. Jahrhunderts (und liefert zum Teil jetzt) Baumwollstoffe an das Bauerntum und städtische Kleinbürgertum auf dem europäischen Kontinent, ferner an das Bauerntum in Indien, Amerika, Afrika usw. Hier war es die Konsumtion nichtkapitalistischer Schichten und Länder, die für die enorme Erweiterung der Baumwollindustrie in England die Basis bildete."
+        }
+      ]
+    },
+    {
+      "id": "anleihen",
+      "label": "Kapitel 30 — internationale Anleihen (Erstdruck S. 396 f.)",
+      "cite": "AK 30",
+      "units": [
+        {
+          "k": "1",
+          "text": "Die Funktionen der Anleihe in der Kapitalakkumulation sind mannigfache: Verwandlung von Geld nichtkapitalistischer Schichten, Geld als Warenäquivalent (Ersparnisse des kleinen Mittelstandes) oder Geld als Konsumtionsfonds des Anhanges der Kapitalistenklasse in Kapital, Verwandlung von Geldkapital in produktives Kapital vermittelst staatlicher Eisenbahnbauten und Militärlieferungen, Übertragung akkumulierten Kapitals aus alten kapitalistischen Ländern in junge. Die Anleihe übertrug im 16. und 17. Jahrhundert das Kapital aus den italienischen Städten nach England, im 18. Jahrhundert aus Holland nach England, im 19. Jahrhundert aus England nach den amerikanischen Republiken und nach Australien, aus Frankreich, Deutschland und Belgien nach Rußland, gegenwärtig aus Deutschland nach der Türkei, aus England, Deutschland, Frankreich nach China und unter Vermittlung Rußlands nach Persien."
+        },
+        {
+          "k": "2",
+          "text": "In der imperialistischen Periode spielt die äußere Anleihe die hervorragendste Rolle als Mittel der Verselbständigung junger kapitalistischer Staaten. Das Widerspruchsvolle der imperialistischen Phase äußert sich handgreiflich in den Widersprüchen des modernen Systems der äußeren Anleihen. Diese sind unentbehrlich zur Emanzipation der aufstrebenden kapitalistischen Staaten und zugleich das sicherste Mittel für alte kapitalistische Staaten, die jungen zu bevormunden, die Kontrolle ihrer Finanzen und den Druck auf ihre auswärtige Politik, Zoll- und Handelspolitik auszuüben. Sie sind das hervorragendste Mittel, dem akkumulierten Kapital alter Länder neue Anlagesphären zu eröffnen und zugleich jenen Ländern neue Konkurrenten zu schaffen, den Spielraum der Kapitalakkumulation im ganzen zu erweitern und ihn gleichzeitig einzuengen."
+        }
+      ]
+    },
+    {
+      "id": "militarismus",
+      "label": "Kapitel 32 — der Militarismus als Gebiet der Kapitalakkumulation",
+      "cite": "AK 32",
+      "units": [
+        {
+          "k": "1",
+          "text": "Der Militarismus übt in der Geschichte des Kapitals eine ganz bestimmte Funktion aus. Er begleitet die Schritte der Akkumulation in allen ihren geschichtlichen Phasen. In der Periode der sogenannten „primitiven Akkumulation“, d. h. in den Anfängen des europäischen Kapitals, spielt der Militarismus die entscheidende Rolle bei der Eroberung der Neuen Welt und der Gewürzländer Indiens, später bei der Eroberung der modernen Kolonien, Zerstörung der sozialen Verbände der primitiven Gesellschaften und Aneignung ihrer Produktionsmittel, bei der Erzwingung des Warenhandels in Ländern, deren soziale Struktur der Warenwirtschaft hinderlich ist, […] bei der Erzwingung von Eisenbahnkonzessionen in rückständigen Ländern und bei der Vollstreckung der Forderungsrechte des europäischen Kapitals aus internationalen Anleihen, endlich als Mittel des Konkurrenzkampfes der kapitalistischen Länder untereinander um Gebiete nichtkapitalistischer Kultur. Dazu kommt noch eine andere wichtige Funktion. Der Militarismus erscheint auch rein ökonomisch für das Kapital als ein Mittel ersten Ranges zur Realisierung des Mehrwerts, d. h. als ein Gebiet der Akkumulation."
+        }
+      ]
+    },
+    {
+      "id": "schluss",
+      "label": "Kapitel 32 — der Schluss (Erstdruck S. 445 f.)",
+      "cite": "AK 32",
+      "units": [
+        {
+          "k": "2",
+          "text": "Je gewalttätiger das Kapital vermittelst des Militarismus draußen in der Welt wie bei sich daheim mit der Existenz nichtkapitalistischer Schichten aufräumt und die Existenzbedingungen aller arbeitenden Schichten herabdrückt, um so mehr verwandelt sich die Tagesgeschichte der Kapitalakkumulation auf der Weltbühne in eine fortlaufende Kette politischer und sozialer Katastrophen und Konvulsionen, die zusammen mit den periodischen wirtschaftlichen Katastrophen in Gestalt der Krisen die Fortsetzung der Akkumulation zur Unmöglichkeit, die Rebellion der internationalen Arbeiterklasse gegen die Kapitalherrschaft zur Notwendigkeit machen werden, selbst ehe sie noch ökonomisch auf ihre natürliche selbstgeschaffene Schranke gestoßen ist."
+        },
+        {
+          "k": "3",
+          "text": "Der Kapitalismus ist die erste Wirtschaftsform mit propagandistischer Kraft, eine Form, die die Tendenz hat, sich auf dem Erdrund auszubreiten und alle anderen Wirtschaftsformen zu verdrängen, die keine andere neben sich duldet. Er ist aber zugleich die erste, die allein, ohne andere Wirtschaftsformen als ihr Milieu und ihren Nährboden, nicht zu existieren vermag, die also gleichzeitig mit der Tendenz, zur Weltform zu werden, an der inneren Unfähigkeit zerschellt, eine Weltform der Produktion zu sein. Er ist ein lebendiger historischer Widerspruch in sich selbst, seine Akkumulationsbewegung ist der Ausdruck, die fortlaufende Lösung und zugleich Potenzierung des Widerspruchs."
+        }
+      ]
+    }
+  ],
+  "exec": [
+    "Luxemburg vollendet die Handelslinie dieses Korpus mit der Frage, die Hörnigk, Kant, List und Rathenau offenlassen: Warum expandiert das System als Ganzes — und was geschieht, wenn ihm das Außen ausgeht? Ihre Milieu-These ist als strenger Beweis umstritten geblieben, aber als Heuristik von bleibender Schärfe: Wachstumsmodelle, die stillschweigend ein unerschöpfliches Außen unterstellen — neue Märkte, neue Nutzer, neue unerschlossene Nachfrage —, verdienen ihre Frage nach der „Lebensfrage der Akkumulation“. Plattformökonomien, die nach der Sättigung des Kerngeschäfts in immer neue Lebensbereiche expandieren müssen, um ihre Bewertung zu realisieren, sind ihr Untersuchungsgegenstand mit anderen Mitteln; und die Pointe, der Kapitalismus sei „die erste Wirtschaftsform mit propagandistischer Kraft“, die zugleich ihr eigenes Milieu verbraucht, ist die kompakteste Formel für das, was heute als Grenzen des Wachstums, ESG-Externalitäten oder Übernutzung gemeinsamer Ressourcen verhandelt wird.",
+    "Das Anleihen-Kapitel ist der unmittelbar geopolitische Ertrag: Kredit als Doppelinstrument, das junge Volkswirtschaften zugleich emanzipiert und bevormundet — „das sicherste Mittel für alte kapitalistische Staaten, die jungen zu bevormunden, die Kontrolle ihrer Finanzen und den Druck auf ihre auswärtige Politik … auszuüben“. Das ist, 1913 geschrieben, die Analytik heutiger Debatten über Schuldendiplomatie, Belt-and-Road-Kredite und IWF-Konditionalität; zusammen mit Kants viertem Präliminarartikel (Staatsschulden als „gefährliche Geldmacht“) bildet es das Begriffspaar, mit dem sich Finanzströme als Machtströme lesen lassen. Das Militarismus-Kapitel schließlich benennt kühl, dass Rüstung auch ein Absatzmarkt ist — eine Beobachtung, die jede Analyse wehrwirtschaftlicher Sonderkonjunkturen nüchtern halten sollte. Wie bei Ratzel gilt: Die Prognosen (Zusammenbruchstheorie) sind widerlegbar und teils widerlegt; die Beschreibungen sind es nicht. Dass ihre Autorin sechs Jahre nach Erscheinen ermordet wurde — wie Rathenau drei Jahre danach —, verbindet dieses Werk mit dem dunkelsten Befund des Korpus: Wo die Begriffe verrohen, folgt die Gewalt gegen Personen."
+  ]
+}

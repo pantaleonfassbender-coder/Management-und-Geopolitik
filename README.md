@@ -1,10 +1,10 @@
 # Magistra Vitae — Management und Geopolitik
 
-Ein „Lektionen der Geschichte“-Quellenapparat in deutscher Sprache: zwölf
-gemeinfreie Texte — elf deutschsprachige Originale (Hörnigk, Schiller, Kant,
-Clausewitz, List, Moltke, Burckhardt, Ratzel, Bismarck, Rathenau, Weber) und
-Thukydides in der Übersetzung Adolf Wahrmunds (1864) — kuratiert für aktuelle
-Führungs- und Geopolitik-Fragen der Unternehmenspraxis.
+Ein „Lektionen der Geschichte“-Quellenapparat in deutscher Sprache: dreizehn
+gemeinfreie Texte — zwölf deutschsprachige Originale (Hörnigk, Schiller, Kant,
+Clausewitz, List, Moltke, Burckhardt, Ratzel, Bismarck, Luxemburg, Rathenau,
+Weber) und Thukydides in der Übersetzung Adolf Wahrmunds (1864) — kuratiert
+für aktuelle Führungs- und Geopolitik-Fragen der Unternehmenspraxis.
 
 Jedes Werk hat eine wissenschaftliche Kopfnote, wörtliche (großteils an den
 Seitenbildern der Drucke verifizierte) Exzerpte mit absatzgenauen Zitierankern

@@ -100,6 +100,16 @@
     "blurb": "Der „cauchemar des coalitions“, die grundsätzliche Absage an den Präventivkrieg, das Staatsschiff in den „Strömungen der Coalitionen“ — Bündnismanagement und Verantwortungsethik des Praktikers, von Apokryphen befreit."
   },
   {
+    "id": "luxemburg",
+    "author": "Rosa Luxemburg",
+    "title": "Die Akkumulation des Kapitals",
+    "date": "1913",
+    "line": "trade",
+    "edition": "Erstausgabe Buchhandlung Vorwärts Paul Singer, Berlin 1913; Kernstellen am Erstdruck verifiziert",
+    "abbr": "AK",
+    "blurb": "Die Theorie des Expansionszwangs: Warum das System „Abnehmer außerhalb“ braucht, wie Anleihen zugleich emanzipieren und bevormunden, warum Militarismus auch ein Markt ist. Die erste Autorin des Korpus — als Analytikerin, nicht als Randstimme."
+  },
+  {
     "id": "rathenau",
     "author": "Walther Rathenau",
     "title": "Deutschlands Rohstoffversorgung",
