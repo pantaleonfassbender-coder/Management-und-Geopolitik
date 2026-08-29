@@ -1,0 +1,57 @@
+{
+  "headnote": [
+    "Am 26. Mai 1789 — sechs Wochen vor dem Bastillesturm — hielt der 29-jährige Friedrich Schiller vor überfülltem Auditorium seine Jenaer Antrittsvorlesung. Sie ist die klassische deutsche Antwort auf die Frage, die diese Website stellt: Was heißt es, aus der Geschichte zu lernen — und wozu? Schillers Antwort verbindet zwei Gedanken: Die Universalgeschichte macht die Gegenwart erklärbar, weil unsere ganze Lebenswelt geronnene Geschichte ist; und sie verpflichtet, dem „reichen Vermächtniß“ der Vorwelt den eigenen Beitrag hinzuzufügen.",
+    "Berühmt geblieben ist die Vorlesung aber vor allem für eine Typologie, die weit über die Universität hinausreicht: der „Brodgelehrte“ gegen den „philosophischen Kopf“ — der Spezialist, der sein Wissen als Besitzstand verteidigt und deshalb jede Neuerung fürchten muss, gegen den, der auf Zusammenhang aus ist und Entdeckungen begrüßt, selbst wenn sie sein Gebäude einreißen. Der Text folgt dem Erstdruck (Der Teutsche Merkur, 1789) nach der Wikisource-Transkription, Originalorthographie."
+  ],
+  "sections": [
+    {
+      "id": "brot",
+      "label": "Der Brodgelehrte",
+      "cite": "UG",
+      "units": [
+        {
+          "k": "1",
+          "text": "Anders ist der Studierplan, den sich der Brodgelehrte, anders derjenige, den der philosophische Kopf sich vorzeichnet. Jener, dem es bey seinem Fleiß einzig und allein darum zu thun ist, die Bedingungen zu erfüllen, unter denen er zu einem Amte fähig und der Vortheile desselben theilhaftig werden kann, der nur darum die Kräfte seines Geistes in Bewegung setzt, um dadurch seinen sinnlichen Zustand zu verbessern und eine kleinliche Ruhmsucht zu befriedigen, – ein solcher wird beym Eintritt in seine akademische Laufbahn keine wichtigere Angelegenheit haben, als die Wissenschaften, die er Brodstudien nennt, von allen übrigen, die den Geist nur als Geist vergnügen, auf das sorgfältigste abzusondern."
+        },
+        {
+          "k": "2",
+          "text": "Jede Erweiterung seiner Brodwissenschaft beunruhigt ihn, weil sie ihm neue Arbeit zusendet, oder die vergangene unnütz macht; jede wichtige Neuerung schreckt ihn auf, denn sie zerbricht die alte Schulform, die er sich so mühsam zu eigen machte, sie setzt ihn in Gefahr, die ganze Arbeit seines vorigen Lebens zu verlieren. Wer hat über Reformatoren mehr geschrieen, als der Haufe der Brodgelehrten? Wer hält den Fortgang nützlicher Revolutionen im Reich des Wissens mehr auf, als eben diese? Jedes Licht, das durch ein glückliches Genie, in welcher Wissenschaft es sey, angezündet wird, macht ihre Dürftigkeit sichtbar; sie fechten mit Erbitterung, mit Heimtücke, mit Verzweiflung, weil sie bey dem Schulsystem, das sie vertheidigen, zugleich für ihr ganzes Daseyn fechten."
+        }
+      ]
+    },
+    {
+      "id": "kopf",
+      "label": "Der philosophische Kopf",
+      "cite": "UG",
+      "units": [
+        {
+          "k": "1",
+          "text": "Wie ganz anders verhält sich der philosophische Kopf! – Eben so sorgfältig, als der Brodgelehrte seine Wissenschaft von allen übrigen absondert, bestrebt sich jener, ihr Gebiet zu erweitern, und ihren Bund mit den übrigen wieder herzustellen – herzustellen, sage ich, denn nur der abstrahirende Verstand hat jene Grenzen gemacht, hat jene Wissenschaften von einander geschieden. Wo der Brodgelehrte trennt, vereinigt der philosophische Geist. Frühe hat er sich überzeugt, daß im Gebiete des Verstandes, wie in der Sinnenwelt, alles in einander greife, und sein reger Trieb nach Uebereinstimmung kann sich mit Bruchstücken nicht begnügen."
+        },
+        {
+          "k": "2",
+          "text": "Neue Entdeckungen im Kreise seiner Thätigkeit, die den Brodgelehrten niederschlagen, entzücken den philosophischen Geist. Vielleicht füllen sie eine Lücke, die das werdende Ganze seiner Begriffe noch verunstaltet hatte, oder setzen den lezten noch fehlenden Stein an sein Ideengebäude, der es vollendet. Sollten sie es aber auch zertrümmern, sollte eine neue Gedankenreyhe, eine neue Naturerscheinung, ein neu entdecktes Gesetz in der Körperwelt, den ganzen Bau seiner Wissenschaft umstürzen: so hat er die Wahrheit immer mehr geliebt als sein System, und gerne wird er die alte mangelhafte Form mit einer neuern und schönern vertauschen."
+        }
+      ]
+    },
+    {
+      "id": "geschichte",
+      "label": "Wozu Geschichte: das Gebiet und das Vermächtnis",
+      "cite": "UG",
+      "units": [
+        {
+          "k": "1",
+          "text": "Fruchtbar und weit umfassend ist das Gebiet der Geschichte; in ihrem Kreise liegt die ganze moralische Welt. Durch alle Zustände, die der Mensch erlebte, durch alle abwechselnde Gestalten der Meinung, durch seine Thorheit und seine Weisheit, seine Verschlimmerung und seine Veredlung, begleitet sie ihn, von allem was er sich nahm und gab, muß sie Rechenschaft ablegen. Es ist keiner unter Ihnen allen, dem Geschichte nicht etwas wichtiges zu sagen hätte; alle noch so verschiedenen Bahnen Ihrer künftigen Bestimmung verknüpfen sich irgendwo mit derselben."
+        },
+        {
+          "k": "2",
+          "text": "Ein edles Verlangen muß in uns entglühen, zu dem reichen Vermächtniß von Wahrheit, Sittlichkeit und Freyheit, das wir von der Vorwelt überkamen und reich vermehrt an die Folgewelt wieder abgeben müssen, auch aus unsern Mitteln einen Beytrag zu legen, und an dieser unvergänglichen Kette, die durch alle Menschengeschlechter sich windet, unser fliehendes Daseyn zu befestigen. Wie verschieden auch die Bestimmung sey, die in der bürgerlichen Gesellschaft Sie erwartet – etwas dazu steuern können Sie alle! Jedem Verdienst ist eine Bahn zur Unsterblichkeit aufgethan, zu der wahren Unsterblichkeit meyne ich, wo die That lebt und weiter eilt, wenn auch der Nahme ihres Urhebers hinter ihr zurückbleiben sollte."
+        }
+      ]
+    }
+  ],
+  "exec": [
+    "Der Brodgelehrte ist die schärfste je geschriebene Charakterstudie des Besitzstandsdenkens in Organisationen — und sie erklärt einen Mechanismus, den jede Transformationserfahrung bestätigt: Widerstand gegen Neuerung ist bei Schiller keine Charakterschwäche, sondern eine rationale Folge davon, wie jemand sein Wissen hält. Wer Kompetenz als abgegrenzten Besitzstand erworben hat („Brodstudien“), den bedroht jede Innovation existenziell — „sie setzt ihn in Gefahr, die ganze Arbeit seines vorigen Lebens zu verlieren“; wer Kompetenz als wachsendes Ganzes hält, den „entzücken“ dieselben Entdeckungen. Für Führung heißt das: Lernkultur ist keine Appell-, sondern eine Strukturfrage — Anreize, Laufbahnen und Statuslogiken entscheiden, welchen der beiden Typen eine Organisation systematisch erzeugt. Machiavellis „lauwarme Verteidiger“ und Bacons „confederate within themselves“ (auf der Schwesterseite) beschreiben denselben Mechanismus von außen; Schiller beschreibt ihn von innen.",
+    "Zugleich ist die Vorlesung die methodische Eröffnung dieses Korpus: Geschichte als das Material, an dem sich Urteilskraft bildet — „es ist keiner unter Ihnen allen, dem Geschichte nicht etwas wichtiges zu sagen hätte“ — und als Verpflichtung, dem übernommenen Bestand „reich vermehrt“ etwas hinzuzufügen. Das ist, in der Sprache von 1789, das Stewardship-Ideal: Führung als treuhänderische Vermehrung eines Erbes, nicht als dessen Verzehr. Dass Schiller die Pointe an Studenten aller Fächer richtet, nicht an Historiker, macht sie zur ältesten deutschen Begründung dessen, was heute Executive Education heißt."
+  ]
+}

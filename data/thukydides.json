@@ -1,0 +1,91 @@
+{
+  "headnote": [
+    "Thukydides (um 460 – um 400 v. Chr.) befehligte im Krieg, den er beschrieb, ein athenisches Geschwader, verlor Amphipolis und nutzte zwanzig Jahre Verbannung, um beide Seiten zu befragen. Sein unvollendetes Werk ist die Gründungsurkunde der machtpolitischen Analyse — und es erhebt selbst den Anspruch, der dieser ganzen Website zugrunde liegt: geschrieben nicht zum Vergnügen des Augenblicks, sondern „um ein Besitzthum für alle Zeiten zu sein“, weil die menschliche Natur die Lagen wiederholt (I,22). Vier Stellen tragen die analytische Hauptlast und stehen alle hier: die „eigentliche Ursache“ des Krieges als Machtverschiebung samt Furcht des Etablierten; das Urteil über Perikles — der Führer, der seinen Stakeholdern widersprechen konnte; die Anatomie des Begriffszerfalls im Bürgerkrieg von Kerkyra; und der Melierdialog.",
+    "Die Übersetzung ist die von Adolf Wahrmund (Stuttgart 1864); die Kernstellen wurden für diese Ausgabe Wort für Wort an den Seitenbildern des Erstdrucks verifiziert. Zitiert wird nach Buch und Kapitel der Standardzählung."
+  ],
+  "sections": [
+    {
+      "id": "i22",
+      "label": "Buch I, 22 — ein Besitzthum für alle Zeiten",
+      "cite": "Thuk. I,22",
+      "units": [
+        {
+          "k": "1",
+          "text": "Dem Ohre nun wird diese Geschichte, weil sie nichts Sagenhaftes erzählt, zwar weniger vergnüglich erscheinen, wenn aber diejenigen dies Werk nützlich finden, welche die geschehenen Dinge kennen lernen wollen, wie sie wirklich waren, und wie auch die Zukunft sie immer auf dieselbe oder auf ähnliche Weise wiederholen wird, weil es eben die menschliche Natur so mit sich bringt, so wird das genug sein. Es ist mehr geschrieben, um ein Besitzthum für alle Zeiten zu sein, und buhlt nicht als Redeprunkstück dem Augenblick zu gefallen."
+        }
+      ]
+    },
+    {
+      "id": "i23",
+      "label": "Buch I, 23 — die eigentliche Ursache des Krieges",
+      "cite": "Thuk. I,23",
+      "units": [
+        {
+          "k": "1",
+          "text": "Damit aber künftighin Niemand fragen dürfe, aus welchen Ursachen sich ein so bedeutender Krieg zwischen den Hellenen entsponnen habe, so erzähle ich zuerst seine Veranlassung und die Zerwürfnisse, welche die Lösung jenes Waffenstillstandes herbeiführten. Für die eigentliche, in den Urtheilen der Menschen aber am wenigsten hervorgezogene Ursache halte ich, daß die Athener in ihrer Machtentwickelung den Lakedämoniern Furcht einflößten und sie auf diese Weise zum Kriege nöthigten. Die Ursachen aber, welche jede der beiden Parteien als Grund anführte, daß sie den Waffenstillstand lösten und zum Kriege schritten, sind die folgenden."
+        }
+      ]
+    },
+    {
+      "id": "ii65",
+      "label": "Buch II, 65 — das Urteil über Perikles",
+      "cite": "Thuk. II,65",
+      "units": [
+        {
+          "k": "1",
+          "text": "Die Ursache davon war, daß jener, an Ansehen und Einsicht hervorragend, unbestechlich war wie kein Anderer und die Menge durch seinen Freimuth im Zaume hielt. Er wurde nicht von jener gelenkt, sondern lenkte sie vielmehr selbst, weil er nicht durch unerlaubte Mittel zu seiner Macht gelangt war und ihnen deshalb nicht zu Gefallen reden mußte, sondern sich das Recht nahm, ihnen auch mit Leidenschaft zu widersprechen. Wenn er nun merkte, daß sie zur unrechten Zeit aus Uebermuth waghalsig werden wollten, so schlug er durch seine Reden ihre Stimmung bis zur Zaghaftigkeit nieder, und sah er sie in übertriebener Furcht, so richtete er sie wieder zur Kühnheit auf. So gab es dem Namen nach eine Volksherrschaft, in der That aber ging vom ersten Manne die Herrschaft aus."
+        },
+        {
+          "k": "2",
+          "text": "Die aber nach ihm kamen, mehr Einer mit dem Andern gleiches Ranges waren und doch Jeder der Erste werden wollten, fingen an dem Volke zu Gefallen ihm die Staatsangelegenheiten in die Hände zu geben, weshalb, wie es in einem großen und Andere beherrschenden Staate natürlich ist, sowohl viele andere Fehler begangen wurden, als auch besonders die Seeunternehmung gegen Sicilien. Bei dieser lag aber der Fehler nicht sowohl in der Absicht rücksichtlich derer, gegen welche der Zug unternommen wurde, als vielmehr darin, daß die Unternehmer hinterher die Sache des abgegangenen Heeres nicht im Auge behielten, sondern unter lauter Ränken der Einzelnen um den Vorrang beim Volke die Kraft des Heeres todt legten und wegen der Staatsangelegenheiten zuerst unter sich selbst in Zerwürfniß geriethen."
+        }
+      ]
+    },
+    {
+      "id": "iii82",
+      "label": "Buch III, 82 — die Verwirrung der Begriffe in Kerkyra",
+      "cite": "Thuk. III,82",
+      "units": [
+        {
+          "k": "1",
+          "text": "Und in diesem Aufruhr trafen die einzelnen Städte viele schwere Ereignisse, wie sie noch vorkommen und immer vorkommen werden, so lange die menschliche Natur dieselbe ist, bald härter, bald gelinder, und verschieden an Art, je nachdem die äußeren Zufälle wechseln. Denn im Frieden und unter bequemen Verhältnissen pflegen die Staaten sowohl wie die Bürger vernünftigere Gesinnung zu hegen, weil die gebieterische Nothwendigkeit sie noch nicht angefallen hat; der Krieg aber, der die gewohnte alltägliche Gemächlichkeit entzieht, ist ein gewaltsamer Lehrmeister und stimmt die Leidenschaften der Menge nach der jeweiligen Beschaffenheit der Lage."
+        },
+        {
+          "k": "2",
+          "text": "Ja sogar die gewohnte Bedeutung der Worte, wie sie zur Würdigung der Thaten dienen, änderte man nach Belieben. Tobsüchtige Verwegenheit galt als treufreundliche Tapferkeit; in wohlüberlegter Bedächtigkeit sah man Beschönigung der Feigheit, und besonnenes Maßhalten erschien als Vorwand der Unmännlichkeit, und wer überall vernünftig handeln wollte, galt überall als schlafsüchtig; für ein Stück Männlichkeit aber hielt man es, wenn Einer aufbrauste wie ein Wahnsinniger. Wer vorsichtig mit sich zu Rathe gehen wollte, schien nur einen anständigen Vorwand zu suchen, sich ganz aus der Sache zu ziehen. Wer recht schimpfen konnte, der galt überall als ein zuverlässiger Mann, wer ihm aber widersprach, der wurde verdächtig."
+        },
+        {
+          "k": "3",
+          "text": "Auf Furcht der Götter sah Niemand mehr, sondern wem es gelingen mochte, durch schönklingende Worte etwas Unerhörtes durchzusetzen, der wuchs dadurch nur an gutem Rufe. Wer aber von den Bürgern es mit keinem Theil hielt, der wurde von beiden tödtlich verfolgt, entweder weil sie im Kampfe nicht zu ihnen standen, oder aus Neid, daß sie allein glücklich davon kommen sollten."
+        }
+      ]
+    },
+    {
+      "id": "melier",
+      "label": "Buch V, 89–97 — der Melierdialog",
+      "cite": "Thuk. V",
+      "units": [
+        {
+          "k": "89",
+          "text": "Athener: „Gut! Und so wollen denn auch wir nicht mit schönen Worten eine lange Rede halten, die euch doch nicht überzeugen würde, wie z. B., daß wir die Herrschaft mit Recht besitzen, weil wir den Meder unschädlich gemacht haben, oder daß wir erlittenen Unrechts wegen euch zu Leibe gehen; dafür erwarten wir aber, daß auch ihr euch nicht der Täuschung hingebet, uns mit solchen Dingen überreden zu können, wie wenn ihr vorbringt, daß ihr ja mit den Lakedämoniern nicht zu Felde gezogen seiet, obgleich ihr von ihnen abstammt, oder daß ihr uns ja Nichts zu Leide gethan hättet. Sucht vielmehr nur das durchzusetzen, was nach Maßgabe von unser beider wirklichen Gesinnungen möglich ist. Ihr so gut wie wir wisset, daß nach menschlicher Denkart die Gerechtigkeit nur da in Betracht gezogen wird, wo auf beiden Seiten die Zwangsmittel sich die Wage halten; der Mächtige aber setzt durch, was durchzusetzen möglich ist, und der Schwache fügt sich.“"
+        },
+        {
+          "k": "90",
+          "text": "Melier: „Wir unserseits halten für nützlich — denn ihr zwingt uns ja den Nutzen hervorzuheben, da ihr ihn mit Beseitigung der Gerechtigkeit zu eurem Grundsatz macht — wenn ihr das nicht aufhebt, was für Alle gemeinsamer Nutzen ist. Es versteht sich ja doch von selbst, daß wer immer in Gefahr ist, den Andern überreden darf, ihm auch wohl über das strenge Recht hinaus eine Begünstigung zu Theil werden zu lassen. Und von euch erwarten wir das um so mehr, als ihr ja, im Fall ihr überwunden werdet, für die Andern als ein Beispiel der furchtbarsten Bestrafung dienen würdet.“"
+        },
+        {
+          "k": "94-95",
+          "text": "Melier: „Ihr würdet also nicht zufrieden sein, wenn wir euch aus Feinden Freunde würden und uns ruhig verhielten, ohne uns an einen der kriegführenden Theile mit den Waffen anzuschließen?“ — Athener: „Nein; denn eure Feindschaft kann uns nicht so viel schaden als diese Freundschaft, die nur unsern Unterthanen unsere Schwäche offenbaren würde, während euer Haß ein Beweis unserer Macht wäre.“"
+        },
+        {
+          "k": "97",
+          "text": "Athener: „Sie glauben wohl, daß Keiner von Beiden weniger Rechtsgründe habe als der Andere; wenn aber Einer seine Unabhängigkeit wahrt, so denken sie, daß er es nur seiner Macht zu danken hat und daß wir ihm nur aus Furcht nicht zu Leibe gehen. Wenn ihr euch also uns unterwerft, so vermehrt ihr einmal die Zahl unserer Unterthanen, und gewährt uns auch größere Sicherheit, zumal wir eine Seemacht sind, und ihr Inselbewohner und schwächer als Andere seid — es müßte denn sein, daß ihr den Sieg davontrüget!“"
+        }
+      ]
+    }
+  ],
+  "exec": [
+    "I,23 ist die Urformel dessen, was heute als „Thukydides-Falle“ vermarktet wird: Nicht der benannte Anlass treibt die Eskalation, sondern das Wachstum des Herausforderers und die Furcht des Etablierten. In Märkten wie in der Geopolitik gilt: Wer nur den vorgetragenen Streitpunkt (einen Preisschritt, einen Standardstreit, ein abgeworbenes Großkonto) entschärft, entschärft nichts. II,65 ist die kompakteste je geschriebene Beschreibung des Unterschieds zwischen Führen und Geführtwerden: Perikles konnte es sich leisten, der eigenen Anhängerschaft „auch mit Leidenschaft zu widersprechen“, weil er sich Unterstützung nie billig gekauft hatte; seine Nachfolger, im internen Rangkampf, delegierten das Urteil an die Stimmung — und die sizilische Katastrophe wurde nicht an der Front entschieden, sondern in der Politik des Hauptquartiers.",
+    "III,82 beschreibt, was mit der Sprache einer Organisation im Existenzkampf geschieht: Wenn „tobsüchtige Verwegenheit“ zur Loyalität umetikettiert wird und Bedächtigkeit zur Feigheit, ist das Informationssystem des Unternehmens bereits zerstört — die Passage taugt als Diagnose-Checkliste für die eigene Krisenkultur, und ihr Echo in der Verrohung heutiger politischer Sprache liegt offen zutage. Der Melierdialog schließlich ist Pflichtlektüre zur asymmetrischen Verhandlung: Die Logik der Athener ist in der einzelnen Runde makellos und im wiederholten Spiel verheerend — auf Melos folgte Sizilien. Er lehrt beide Lektionen zugleich: dem Schwächeren, dass Fairness-Appelle nur unter Gleichstarken verfangen; dem Stärkeren, dass die systematische Zerstörung dessen, „was für Alle gemeinsamer Nutzen ist“, am Ende die Normen beseitigt, auf die auch der Starke eines Tages angewiesen sein wird."
+  ]
+}

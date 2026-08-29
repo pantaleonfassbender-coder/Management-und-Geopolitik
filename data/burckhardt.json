@@ -1,0 +1,68 @@
+{
+  "headnote": [
+    "Jacob Burckhardt (1818–1897) hielt seine Vorlesungen „Über das Studium der Geschichte“ 1868–1871 in Basel; sein Neffe Jakob Oeri gab sie 1905 unter dem Titel „Weltgeschichtliche Betrachtungen“ heraus. Gegen die Fortschrittsgewissheit seines Jahrhunderts — und gegen seinen Antipoden Hegel — setzt Burckhardt einen Ausgangspunkt, der das Programm dieser Website in einem Satz enthält: die Betrachtung des „sich Wiederholenden, Konstanten, Typischen“ vom „duldenden, strebenden und handelnden Menschen“ her, „wie er ist und immer war und sein wird“. Von diesem Punkt aus entwickelt er die kälteste Machtanalyse des deutschen 19. Jahrhunderts („Die Macht ist an sich böse“), eine Theorie der geschichtlichen Krisen samt ihrer Beschleunigungs- und Illusionsdynamik — und eine skeptische Bestimmung der „historischen Größe“.",
+    "Burckhardt lehnte den Ruf auf Rankes Berliner Lehrstuhl ab und blieb in Basel; seine Hellsicht über das kommende Zeitalter der „terribles simplificateurs“ machte ihn posthum zum meistzitierten Propheten des 20. Jahrhunderts. Text nach der Gutenberg-DE-Digitalisierung (Ausgabe Stadelmann 1949, auf Oeri 1905 zurückgehend)."
+  ],
+  "sections": [
+    {
+      "id": "aufgabe",
+      "label": "Einleitung — unser Ausgangspunkt",
+      "cite": "WB Einl.",
+      "units": [
+        {
+          "k": "1",
+          "text": "Unser Ausgangspunkt ist der vom einzigen bleibenden und für uns möglichen Zentrum, vom duldenden, strebenden und handelnden Menschen, wie er ist und immer war und sein wird; daher unsere Betrachtung gewissermaßen pathologisch sein wird. Die Geschichtsphilosophen betrachten das Vergangene als Gegensatz und Vorstufe zu uns als Entwickelten; – wir betrachten das sich Wiederholende, Konstante, Typische als ein in uns Anklingendes und Verständliches."
+        }
+      ]
+    },
+    {
+      "id": "macht",
+      "label": "Die Kultur in ihrer Bedingtheit durch den Staat — die Macht",
+      "cite": "WB III.1",
+      "units": [
+        {
+          "k": "1",
+          "text": "Allein in erster Linie will die Nation (scheinbar oder wirklich) vor allem Macht. Das kleinstaatliche Dasein wird wie eine bisherige Schande perhorresziert; alle Tätigkeit für dasselbe genügt den treibenden Individuen nicht; man will nur zu etwas Großem gehören und verrät damit deutlich, daß die Macht das erste, die Kultur höchstens ein ganz sekundäres Ziel ist."
+        },
+        {
+          "k": "2",
+          "text": "Und nun ist die Macht an sich böse, gleichviel wer sie ausübe. Sie ist kein Beharren, sondern eine Gier und eo ipso unerfüllbar, daher in sich unglücklich und muß also andere unglücklich machen."
+        }
+      ]
+    },
+    {
+      "id": "krisen",
+      "label": "Die geschichtlichen Krisen",
+      "cite": "WB IV",
+      "units": [
+        {
+          "k": "1",
+          "text": "Bei dem enorm komplexen Zustand des Lebens, wo Staat, Religion und Kultur in höchst abgeleiteten Formen neben- und übereinander geschichtet sind, wo die meisten Dinge in ihrer dermaligen Verfassung ihren rechtfertigenden Zusammenhang mit ihrem Ursprung eingebüßt haben, wird längst das eine Element eine übermäßige Ausdehnung oder Macht erreicht haben und nach Art alles Irdischen mißbrauchen, während andere Elemente eine übermäßige Einschränkung erleiden müssen."
+        },
+        {
+          "k": "2",
+          "text": "In letzterem Falle bricht irgendwo irgendwas aus, wodurch die öffentliche Ordnung gestört wird, und wird entweder unterdrückt, worauf die herrschende Macht, wenn sie weise ist, einige Abhilfe schafft, oder es knüpft sich daran, den meisten unerwartet, eine Krisis des ganzen allgemeinen Zustandes bis zur kolossalsten Ausdehnung über ganze Zeitalter und alle oder viele Völker desselben Bildungskreises; denn Invasionen nach außen und von außen hängen sich von selber daran. Der Weltprozeß gerät plötzlich in furchtbare Schnelligkeit; Entwicklungen, die sonst Jahrhunderte brauchen, scheinen in Monaten und Wochen wie flüchtige Phantome vorüberzugehen und damit erledigt zu sein."
+        },
+        {
+          "k": "3",
+          "text": "Und nun beginnt das brillante Narrenspiel der Hoffnung, diesmal für ganze große Schichten eines Volkes in kolossalem Maßstab. Auch in den Massen vermischt sich der Protest gegen das Vergangene mit einem glänzenden Phantasiebilde der Zukunft, welches alle kaltblütige Überlegung unmöglich macht; bisweilen mag sich darin die innerste Signatur des betreffenden Volkes verraten; vielleicht zuckt dabei auch rheumatisch ein Gefühl des Alterns mit, welches man durch das Postulat einer Verjüngung übertäubt. Die Peliaden kochten ja auf Zureden der Medea ihren eigenen Vater, aber er blieb tot."
+        }
+      ]
+    },
+    {
+      "id": "groesse",
+      "label": "Das Individuum und das Allgemeine — die historische Größe",
+      "cite": "WB V",
+      "units": [
+        {
+          "k": "1",
+          "text": "Unsern Ausgang nehmen wir von unserm Knirpstum, unserer Zerfahrenheit und Zerstreuung. Größe ist, was wir nicht sind. Dem Käfer im Grase kann schon eine Haselnußstaude (falls er davon Notiz nimmt) sehr groß erscheinen, weil er eben nur ein Käfer ist. Und dennoch fühlen wir, daß der Begriff unentbehrlich ist, und daß wir ihn uns nicht dürfen nehmen lassen; nur wird er ein relativer bleiben; wir können nicht hoffen, zu einem absoluten durchzudringen."
+        }
+      ]
+    }
+  ],
+  "exec": [
+    "Burckhardts Einleitung liefert die Methodenbegründung dieses ganzen Korpus in zwei Sätzen: Nicht Entwicklungsgesetze, sondern das „sich Wiederholende, Konstante, Typische“ ist der Ertrag der Geschichte — exakt die Lesehaltung, die aus alten Texten Strukturwissen statt Anekdoten gewinnt. Sein Machtkapitel ist das notwendige Korrektiv zu jeder Machttechnik im Korpus, von Kautilya bis Bismarck: Macht als „Gier und eo ipso unerfüllbar“ erklärt, warum Machtakkumulation kein Sättigungsniveau kennt — im Staat wie im Konzern —, und seine Beobachtung, dass man „nur zu etwas Großem gehören“ will, seziert die Psychologie jeder Fusionseuphorie und jedes Skalierungskults: Größe als Ersatzziel, das die eigentlichen Zwecke verdrängt.",
+    "Das Krisenkapitel gehört in jedes Szenario-Programm. Es beschreibt erstens die Vorgeschichte: Krisen entstehen, wo ein Element des Systems „eine übermäßige Ausdehnung oder Macht erreicht“ hat und andere chronisch eingeschnürt sind — eine Definition struktureller Fragilität, die auf Märkte, Lieferketten und politische Ordnungen gleichermaßen passt. Zweitens die Dynamik: „Der Weltprozeß gerät plötzlich in furchtbare Schnelligkeit“ — Burckhardts Beschleunigungssatz ist die präziseste Beschreibung dessen, was Entscheider 1989, 2008, 2020 und 2022 erlebten, und das stärkste Argument gegen Planungsroutinen, die lineare Fortschreibung unterstellen. Drittens die Wahrnehmungsfalle: das „brillante Narrenspiel der Hoffnung“, in dem Zukunftsphantasie „alle kaltblütige Überlegung unmöglich macht“ — auf Hype-Zyklen ebenso anwendbar wie auf politische Umbrüche. Die Größen-Passage schließlich impft gegen den Größenbegriff der Wirtschaftspresse: „Größe ist, was wir nicht sind“ — ein relativer, projektionsanfälliger Begriff, den man benutzen muss, ohne ihm zu glauben."
+  ]
+}

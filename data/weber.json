@@ -1,0 +1,68 @@
+{
+  "headnote": [
+    "Max Weber (1864–1920) hielt „Politik als Beruf“ am 28. Januar 1919 in München vor Studenten — mitten in der Revolution, Wochen vor der Ermordung Kurt Eisners, ein Jahr vor seinem eigenen Tod. Der Vortrag ist der Grundtext moderner Führungsethik deutscher Sprache: Er definiert den Staat über das „Monopol legitimer physischer Gewaltsamkeit“, unterscheidet die drei inneren Rechtfertigungsgründe von Herrschaft — Tradition, Charisma, Legalität —, benennt die drei entscheidenden Qualitäten des Politikers und stellt die bis heute schärfste Unterscheidung der Verantwortungslehre auf: Gesinnungsethik gegen Verantwortungsethik.",
+    "Sein Schluss, geschrieben in eine „Polarnacht von eisiger Finsternis“, gehört zum Härtesten und Schönsten der deutschen Prosa über Führung unter widrigen Umständen. Text nach dem Erstdruck (Duncker & Humblot 1919) in der Wikisource-Transkription; ein dortiger Übertragungsfehler („veranwortungsethisch“) ist stillschweigend korrigiert und auf der Methodenseite dokumentiert."
+  ],
+  "sections": [
+    {
+      "id": "staat",
+      "label": "Der Staat und die Legitimität",
+      "cite": "PaB",
+      "units": [
+        {
+          "k": "1",
+          "text": "Heute dagegen werden wir sagen müssen: Staat ist diejenige menschliche Gemeinschaft, welche innerhalb eines bestimmten Gebietes – dies: das „Gebiet“, gehört zum Merkmal – das Monopol legitimer physischer Gewaltsamkeit für sich (mit Erfolg) beansprucht. […] „Politik“ würde für uns also heißen: Streben nach Machtanteil oder nach Beeinflussung der Machtverteilung, sei es zwischen Staaten, sei es innerhalb eines Staates zwischen den Menschengruppen, die er umschließt."
+        },
+        {
+          "k": "2",
+          "text": "Es gibt der inneren Rechtfertigungen, also: der Legitimitätsgründe einer Herrschaft – um mit ihnen zu beginnen – im Prinzip drei. Einmal die Autorität des „ewig Gestrigen“: der durch unvordenkliche Geltung und gewohnheitsmäßige Einstellung auf ihre Innehaltung geheiligten Sitte: „traditionale“ Herrschaft […]. Dann: die Autorität der außeralltäglichen persönlichen Gnadengabe (Charisma), die ganz persönliche Hingabe und das persönliche Vertrauen zu Offenbarungen, Heldentum oder anderen Führereigenschaften eines einzelnen: „charismatische“ Herrschaft […]. Endlich: Herrschaft kraft „Legalität“, kraft des Glaubens an die Geltung legaler Satzung und der durch rational geschaffene Regeln begründeten sachlichen „Kompetenz“ […]."
+        }
+      ]
+    },
+    {
+      "id": "qualitaeten",
+      "label": "Die drei Qualitäten des Politikers",
+      "cite": "PaB",
+      "units": [
+        {
+          "k": "1",
+          "text": "Man kann sagen, daß drei Qualitäten vornehmlich entscheidend sind für den Politiker: Leidenschaft – Verantwortungsgefühl – Augenmaß. Leidenschaft im Sinn von Sachlichkeit: leidenschaftliche Hingabe an eine „Sache“, an den Gott oder Dämon, der ihr Gebieter ist. […] Denn mit der bloßen, als noch so echt empfundenen, Leidenschaft ist es freilich nicht getan. Sie macht nicht zum Politiker, wenn sie nicht, als Dienst in einer „Sache“, auch die Verantwortlichkeit gegenüber ebendieser Sache zum entscheidenden Leitstern des Handelns macht. Und dazu bedarf es – und das ist die entscheidende psychologische Qualität des Politikers – des Augenmaßes, der Fähigkeit, die Realitäten mit innerer Sammlung und Ruhe auf sich wirken zu lassen, also: der Distanz zu den Dingen und Menschen."
+        }
+      ]
+    },
+    {
+      "id": "ethik",
+      "label": "Gesinnungsethik und Verantwortungsethik",
+      "cite": "PaB",
+      "units": [
+        {
+          "k": "1",
+          "text": "Wir müssen uns klar machen, daß alles ethisch orientierte Handeln unter zwei voneinander grundverschiedenen, unaustragbar gegensätzlichen Maximen stehen kann: es kann „gesinnungsethisch“ oder „verantwortungsethisch“ orientiert sein. Nicht daß Gesinnungsethik mit Verantwortungslosigkeit und Verantwortungsethik mit Gesinnungslosigkeit identisch wäre. Davon ist natürlich keine Rede. Aber es ist ein abgrundtiefer Gegensatz, ob man unter der gesinnungsethischen Maxime handelt – religiös geredet –: „der Christ tut recht und stellt den Erfolg Gott anheim“, oder unter der verantwortungsethischen: daß man für die (voraussehbaren) Folgen seines Handelns aufzukommen hat."
+        },
+        {
+          "k": "2",
+          "text": "Wenn die Folgen einer aus reiner Gesinnung fließenden Handlung üble sind, so gilt ihm nicht der Handelnde, sondern die Welt dafür verantwortlich, die Dummheit der anderen Menschen oder – der Wille des Gottes, der sie so schuf. Der Verantwortungsethiker dagegen rechnet mit eben jenen durchschnittlichen Defekten der Menschen, – er hat, wie Fichte richtig gesagt hat, gar kein Recht, ihre Güte und Vollkommenheit vorauszusetzen, er fühlt sich nicht in der Lage, die Folgen eigenen Tuns, soweit er sie voraussehen konnte, auf andere abzuwälzen. Er wird sagen: diese Folgen werden meinem Tun zugerechnet."
+        }
+      ]
+    },
+    {
+      "id": "bohren",
+      "label": "Der Schluss — das Bohren harter Bretter",
+      "cite": "PaB",
+      "units": [
+        {
+          "k": "1",
+          "text": "Die Politik bedeutet ein starkes langsames Bohren von harten Brettern mit Leidenschaft und Augenmaß zugleich. Es ist ja durchaus richtig, und alle geschichtliche Erfahrung bestätigt es, daß man das Mögliche nicht erreichte, wenn nicht immer wieder in der Welt nach dem Unmöglichen gegriffen worden wäre. Aber der, der das tun kann, muß ein Führer und nicht nur das, sondern auch – in einem sehr schlichten Wortsinn – ein Held sein. Und auch die, welche beides nicht sind, müssen sich wappnen mit jener Festigkeit des Herzens, die auch dem Scheitern aller Hoffnungen gewachsen ist, jetzt schon, sonst werden sie nicht imstande sein, auch nur durchzusetzen, was heute möglich ist."
+        },
+        {
+          "k": "2",
+          "text": "Nur wer sicher ist, daß er daran nicht zerbricht, wenn die Welt, von seinem Standpunkt aus gesehen, zu dumm oder zu gemein ist für das, was er ihr bieten will, daß er all dem gegenüber: „dennoch!“ zu sagen vermag, nur der hat den „Beruf“ zur Politik."
+        }
+      ]
+    }
+  ],
+  "exec": [
+    "Webers Vortrag ist die dichteste Führungslehre des Korpus, und jede seiner Unterscheidungen trägt in die Organisation. Die drei Legitimitätsgründe sind eine Diagnose der eigenen Autoritätsbasis: Führung „kraft Legalität“ (Position und Prozess), kraft Tradition (Seniorität, Hauskultur) und kraft Charisma (persönliche Gefolgschaft) mischen sich in jedem Unternehmen — und Nachfolgekrisen sind fast immer Krisen des Übergangs von charismatischer zu legaler Herrschaft, Webers eigenes Thema der „Veralltäglichung“. Die drei Qualitäten sind das knappste Anforderungsprofil, das je für Verantwortungsträger formuliert wurde; die unterschätzte dritte ist die entscheidende: Augenmaß als „Distanz zu den Dingen und Menschen“, deren Fehlen — „Distanzlosigkeit“ — Weber eine Todsünde nennt. In der Sprache heutiger Eignungsdiagnostik: Passion und Ownership ohne Urteilsdistanz ergeben den gefährlichsten Typus.",
+    "Die Ethik-Unterscheidung ist das Werkzeug für die schwersten Entscheidungen — Stellenabbau, Standortschließung, Produktrückruf, Sanktionstreue: Der Verantwortungsethiker haftet für die voraussehbaren Folgen und darf die „durchschnittlichen Defekte der Menschen“ nicht wegdefinieren; reine Gesinnung, die üble Folgen der „Dummheit der anderen“ zuschreibt, ist bei Weber keine Ethik, sondern Flucht. Wichtig ist seine Pointe, die oft unterschlagen wird: Am Ende gehören beide Ethiken zusammen — der reife Verantwortliche ist der, der irgendwo sagt: „Ich kann nicht anders, hier stehe ich.“ Und der Schluss ist das realistische Gegenstück zu aller Purpose-Rhetorik: Führung als „starkes langsames Bohren von harten Brettern“, getragen von der Festigkeit, „die auch dem Scheitern aller Hoffnungen gewachsen ist“ — geschrieben von einem Mann, der die Polarnacht kommen sah und trotzdem das „dennoch!“ zur Berufsvoraussetzung erklärte."
+  ]
+}

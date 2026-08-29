@@ -1,0 +1,54 @@
+{
+  "headnote": [
+    "Helmuth von Moltke der Ältere (1800–1891), dreißig Jahre Chef des preußischen Generalstabs, verwandelte Clausewitz' Erkenntnistheorie in Organisationspraxis. Sein kurzer Aufsatz „Über Strategie“ (1871, hier nach dem Abdruck in den Militärischen Werken von 1900) enthält die berühmteste deutsche Absage an die Planbarkeitsillusion: „Kein Operationsplan reicht mit einiger Sicherheit über das erste Zusammentreffen mit der feindlichen Hauptmacht hinaus.“ Die Antwort darauf ist nicht Planverzicht, sondern eine Führungsorganisation, die mit Ungewissheit rechnet — dokumentiert in den „Verordnungen für die höheren Truppenführer“ von 1869, der Wurzel dessen, was später Auftragstaktik hieß und heute als „Führen mit Auftrag“ bzw. Mission Command in Führungslehren weltweit gelehrt wird.",
+    "Sämtliche Passagen wurden für diese Ausgabe von den Fraktur-Seitenbildern des Mittler-Drucks von 1900 transkribiert (das maschinelle OCR ist unbrauchbar); Originalorthographie („Aushülfen“, „disponiren“) ist beibehalten. Der Druck von 1900 liest in der Schlussdefinition „Kunst des Handels“ — gemeint und in anderen Drucken überliefert ist „des Handelns“; Details auf der Methodenseite."
+  ],
+  "sections": [
+    {
+      "id": "plan",
+      "label": "Über Strategie (1871) — kein Plan überlebt den ersten Kontakt",
+      "cite": "MW II.2, 291 f.",
+      "units": [
+        {
+          "k": "1",
+          "text": "Die Politik bedient sich des Kriegs für Erreichung ihrer Zwecke, sie wirkt entscheidend auf den Beginn und das Ende desselben ein, so zwar, daß sie sich vorbehält in seinem Verlauf ihre Ansprüche zu steigern oder aber mit einem minderen Erfolg sich zu begnügen. Bei dieser Unbestimmtheit kann die Strategie ihr Streben stets nur auf das höchste Ziel richten, welches die gebotenen Mittel überhaupt erreichbar machen. Sie arbeitet so am besten der Politik in die Hand, nur für deren Zweck, aber im Handeln völlig unabhängig von ihr."
+        },
+        {
+          "k": "2",
+          "text": "Die materiellen und moralischen Folgen jedes größeren Gefechtes sind aber so weitgreifender Art, daß durch dieselben meist eine völlig veränderte Situation geschaffen wird, eine neue Basis für neue Maßregeln. Kein Operationsplan reicht mit einiger Sicherheit über das erste Zusammentreffen mit der feindlichen Hauptmacht hinaus. Nur der Laie glaubt in dem Verlauf eines Feldzuges die konsequente Durchführung eines im voraus gefaßten, in allen Einzelheiten überlegten und bis ans Ende festgehaltenen, ursprünglichen Gedankens zu erblicken."
+        },
+        {
+          "k": "3",
+          "text": "Gewiß wird der Feldherr seine großen Ziele stetig im Auge behalten, unbeirrt darin durch die Wechselfälle der Begebenheiten, aber die Wege, auf welchen er sie zu erreichen hofft, lassen sich auf weit hinaus nie mit Sicherheit feststellen. Er ist im Laufe des ganzen Feldzuges darauf angewiesen eine Reihe von Entschlüssen zu fassen auf Grund von Situationen, die nicht vorherzusehen sind. Alle aufeinander folgenden Akte des Krieges sind sonach nicht prämeditirte Ausführungen, sondern spontane Akte, geleitet durch militärischen Takt. Es kommt darauf an in lauter Spezialfällen die in den Nebel der Ungewißheit gehüllte Sachlage zu durchschauen, das Gegebene richtig zu würdigen, das Unbekannte zu errathen, einen Entschluß schnell zu fassen, und dann kräftig und unbeirrt durchzuführen."
+        },
+        {
+          "k": "4",
+          "text": "Die Strategie ist ein System der Aushülfen. Sie ist mehr als Wissenschaft, ist die Uebertragung des Wissens auf das praktische Leben, die Fortbildung des ursprünglich leitenden Gedankens entsprechend den stets sich ändernden Verhältnissen, ist die Kunst des Handels [gemeint: Handelns] unter dem Druck der schwierigsten Bedingungen."
+        }
+      ]
+    },
+    {
+      "id": "auftrag",
+      "label": "Verordnungen für die höheren Truppenführer (1869) — die Wurzel der Auftragstaktik",
+      "cite": "MW II.2, 174/180",
+      "units": [
+        {
+          "k": "1",
+          "text": "Vielfach sind die Situationen, in welchen der Offizier nach eigener Einsicht handeln muß. Es würde sehr verkehrt sein, wollte er auf Befehle warten in Momenten, wo oftmals keine Befehle gegeben werden können; aber am ersprießlichsten für das Ganze ist in der Regel sein Wirken da, wo er den Willen seines Vorgesetzten vollzieht."
+        },
+        {
+          "k": "2",
+          "text": "Im Allgemeinen wird man wohl thun nicht mehr zu befehlen, als durchaus nöthig ist, nicht über die Verhältnisse hinaus zu disponiren, die man übersehen kann, denn diese ändern sich im Kriege schnell und selten werden in der Zeit weit vorgreifende und ins Detail gehende Anordnungen vollständig zur Ausführung gelangen. Es erschüttert dies das Vertrauen der Unterführer und giebt den Truppen ein Gefühl der Unsicherheit, wenn die Dinge ganz anders kommen, als der höhere Befehl es voraussetzte. Außerdem darf nicht unbeachtet bleiben, daß, wenn man viel befiehlt, sehr leicht das Wichtige, das unbedingt Auszuführende durch die Masse der Nebendinge und des nur unter Umständen Gültigen verdunkelt und nur nebenher oder gar nicht ausgeführt wird."
+        },
+        {
+          "k": "3",
+          "text": "Je höher die Behörde, je kürzer und allgemeiner werden die Befehle sein. Die nächste Kommandostelle fügt die ihr nöthig erscheinende weitere Präzisirung hinzu, und das Detail der Ausführung fällt dem mündlichen Befehl event. dem Kommandowort anheim. Jedem bleibt dabei die freie Bewegung und Entschließung innerhalb seiner Befugniß. […] Dagegen ist es unerläßlich, daß die untergebenen Behörden den Zweck des Befohlenen erkennen, um nach diesem selbst dann zu streben, wenn die Umstände es erfordern sollten, anders zu handeln, als befohlen war."
+        }
+      ]
+    }
+  ],
+  "exec": [
+    "Moltke ist der meistadaptierte Militärklassiker der Managementlehre, und zwar zu Recht: „Über Strategie“ liefert die realistische Planungsdoktrin in vier Sätzen. Ziele stabil halten, Wege flexibel („Gewiß wird der Feldherr seine großen Ziele stetig im Auge behalten … aber die Wege …“); Pläne als Hypothesen bis zum ersten Marktkontakt; Entscheidung unter Nebel als Kernkompetenz — „das Gegebene richtig zu würdigen, das Unbekannte zu errathen, einen Entschluß schnell zu fassen, und dann kräftig und unbeirrt durchzuführen“ ist eine vollständige Beschreibung dessen, was Executive Judgment heute meint. Die Schlussdefinition — Strategie als „System der Aushülfen“, als „Fortbildung des ursprünglich leitenden Gedankens entsprechend den stets sich ändernden Verhältnissen“ — ist der klassische deutsche Vorläufer dessen, was die Strategieforschung seit Mintzberg „emergente Strategie“ nennt.",
+    "Die Verordnungen von 1869 sind das Organisationsdesign zu dieser Erkenntnistheorie und die Quelle des heutigen „Führens mit Auftrag“: Nicht mehr befehlen als nötig; nicht über den eigenen Informationshorizont hinaus disponieren; je höher die Ebene, desto kürzer der Befehl; und — der entscheidende Satz — die Ausführenden müssen den Zweck kennen, um notfalls „anders zu handeln, als befohlen war“, wenn die Lage es verlangt. Das ist Empowerment nicht als Kulturfloskel, sondern als präzises Regelwerk mit Begründung: Mikromanagement scheitert nicht an der Gesinnung, sondern an der Informationslage, und es „erschüttert das Vertrauen der Unterführer“. Wer OKR-Systeme, dezentrale P&L-Verantwortung oder Krisenstäbe baut, implementiert Moltke — die Lektüre des Originals schärft, was moderne Derivate oft verwässern: Auftragstaktik setzt gemeinsames Lagebild, trainierte Urteilskraft und eine Führung voraus, die Abweichung vom Wortlaut belohnt, wenn sie dem Zweck dient."
+  ]
+}

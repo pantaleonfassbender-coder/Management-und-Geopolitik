@@ -1,0 +1,75 @@
+{
+  "headnote": [
+    "Otto von Bismarck (1815–1898) diktierte die „Gedanken und Erinnerungen“ nach seiner Entlassung 1890; die ersten beiden Bände erschienen 1898 unmittelbar nach seinem Tod und wurden das meistgelesene politische Memoirenwerk deutscher Sprache. Als Quelle sind sie doppelt zu lesen: als Rechtfertigungsschrift eines Gestürzten — und als konkurrenzlose Innenansicht des Bündnismanagements einer Macht der Mitte, die von der „cauchemar des coalitions“, dem Albtraum der Koalitionen, lebte. Die Auswahl konzentriert sich auf das Überprüfbare und Übertragbare: Koalitionsgeometrie, die grundsätzliche Absage an den Präventivkrieg, die Verantwortung des Staatsmanns für den Krieg, und das Staatsschiff in den „Strömungen der Coalitionen“.",
+    "Eine Besonderheit dieser Ausgabe: Die berühmtesten „Bismarck-Zitate“ — „Politik ist die Kunst des Möglichen“ und der Satz vom Strom der Zeit, auf dem man nur „fahren und steuern“ könne — stehen nachweislich nicht in diesem Werk; die Volltextprüfung ist auf der Methodenseite dokumentiert. Was hier steht, steht wirklich da: Text nach zeno.org, Kernstellen gegen die Erstausgabe (Cotta 1898, Deutsches Textarchiv) kollationiert."
+  ],
+  "sections": [
+    {
+      "id": "olmuetz",
+      "label": "Aus der Olmütz-Rede 1850 — wehe dem Staatsmann",
+      "cite": "GE I,3",
+      "units": [
+        {
+          "k": "1",
+          "text": "Es ist leicht für einen Staatsmann, sei es in dem Cabinete sei es in der Kammer, mit dem populären Winde in die Kriegstrompete zu stoßen und sich dabei an seinem Kaminfeuer zu wärmen oder von dieser Tribüne donnernde Reden zu halten und es dem Musketier, der auf dem Schnee verblutet, zu überlassen, ob sein System Sieg und Ruhm erwirbt oder nicht. Es ist nichts leichter als das, aber wehe dem Staatsmann, der sich in dieser Zeit nicht nach einem Grunde zu Kriegen umsieht, der auch nach dem Kriege noch stichhaltig ist."
+        }
+      ]
+    },
+    {
+      "id": "goltz",
+      "label": "Brief an Goltz 1863 — vom Strome treiben lassen",
+      "cite": "GE II,8",
+      "units": [
+        {
+          "k": "1",
+          "text": "Die Jagd hinter dem Phantom der Popularität ›in Deutschland‹, die wir seit den vierziger Jahren betrieben, hat uns unsre Stellung in Deutschland und in Europa gekostet, und wir werden sie dadurch nicht wiedergewinnen, daß wir uns vom Strome treiben lassen in der Meinung, ihn zu lenken, sondern nur dadurch, daß wir fest auf eignen Füßen stehen und zuerst Großmacht, dann Bundesstaat sind."
+        }
+      ]
+    },
+    {
+      "id": "cauchemar",
+      "label": "Berliner Kongress — der cauchemar des coalitions",
+      "cite": "GE II,17",
+      "units": [
+        {
+          "k": "1",
+          "text": "Noch vor dem Congreß berührte er die Frage eines russisch-deutschen Schutz- und Trutzbündnisses und stellte sie direct. Ich besprach mit ihm offen die Schwierigkeiten und Aussichten, welche die Bündnißfrage und zunächst, wenn der Dreibund der Ostmächte nicht haltbar wäre, die Wahl zwischen Oesterreich und Rußland für uns habe. Er sagte unter Anderm in der Discussion: »vous avez le cauchemar des coalitions«, worauf ich erwiderte: »nécessairement«."
+        }
+      ]
+    },
+    {
+      "id": "praeventiv",
+      "label": "Der Dreibund — gegen den Präventivkrieg",
+      "cite": "GE II,18",
+      "units": [
+        {
+          "k": "1",
+          "text": "Ich bin zur Zeit der Luxemburger Frage (1867) ein grundsätzlicher Gegner von Präventivkriegen gewesen, d.h. von Angriffskriegen, welche wir um deshalb führen würden, weil wir vermutheten, daß wir sie später mit dem besser gerüsteten Feinde zu bestehen haben würden. Daß wir 1875 Frankreich besiegt haben würden, war nach der Ansicht unsrer Militärs wahrscheinlich; aber nicht so wahrscheinlich war es, daß die übrigen Mächte würden neutral geblieben sein."
+        },
+        {
+          "k": "2",
+          "text": "Hätten wir damals den Krieg erneuern wollen, nur um das kranke Frankreich nicht genesen zu lassen, so würde unzweifelhaft nach einigen mißlungenen Conferenzen zur Verhütung des Krieges unsre Kriegführung sich in Frankreich in der Lage befunden haben, welche ich in Versailles bei der Verschleppung der Belagerung befürchtet hatte. Die Beendigung des Kriegs würde nicht durch einen Friedensschluß unter vier Augen, sondern in einem Congresse zu Stande gekommen sein, wie 1814 unter Zuziehung des besiegten Frankreichs, und vielleicht bei der Mißgunst, der wir ausgesetzt waren, ebenso wie damals unter Leitung eines neuen Talleyrand."
+        }
+      ]
+    },
+    {
+      "id": "staatsschiff",
+      "label": "Zukünftige Politik Russlands — das Staatsschiff",
+      "cite": "GE II,19",
+      "units": [
+        {
+          "k": "1",
+          "text": "Jedenfalls wird auch in der Zukunft nicht blos kriegerische Rüstung, sondern auch ein richtiger politischer Blick dazu gehören, das deutsche Staatsschiff durch die Strömungen der Coalitionen zu steuern, denen wir nach unsrer geographischen Lage und unsrer Vorgeschichte ausgesetzt sind. Durch Liebenswürdigkeiten und wirthschaftliche Trinkgelder für befreundete Mächte werden wir den Gefahren, die im Schoße der Zukunft liegen, nicht vorbeugen, sondern die Begehrlichkeit unserer einstweiligen Freunde und ihre Rechnung auf unser Gefühl sorgenvoller Bedürftigkeit steigern."
+        },
+        {
+          "k": "2",
+          "text": "Frühere Herrscher sahen mehr auf Befähigung als auf Gehorsam ihrer Rathgeber; wenn der Gehorsam allein das Criterium ist, so wird ein Anspruch an die universelle Begabung des Monarchen gestellt, dem selbst Friedrich der Große nicht genügen würde, obschon die Politik in Krieg und Frieden zu seiner Zeit weniger schwierig war wie heut."
+        }
+      ]
+    }
+  ],
+  "exec": [
+    "Bismarcks Koalitionsdenken ist das reifste Kapitel dieses Korpus über das Management von Beziehungsgeflechten. Der „cauchemar des coalitions“ — der Albtraum, dass sich die anderen gegen einen verbünden — ist die Grundangst jedes Akteurs in der Mitte eines Netzwerks, vom exportabhängigen Land bis zum Plattformunternehmen zwischen Regulierern, Partnern und Rivalen; Bismarcks „nécessairement“ erkennt sie als strukturell an statt sie zu verdrängen, und seine Antwort — mehr tragfähige Beziehungen unterhalten als jeder Rivale, um nie vor die binäre Wahl gestellt zu werden — ist Portfoliotheorie für Allianzen. Die Staatsschiff-Passage fügt zwei Warnungen hinzu, die Vorstände unmittelbar betreffen: Wohlwollen lässt sich nicht kaufen („wirthschaftliche Trinkgelder … steigern die Begehrlichkeit“), und eine Führungskultur, die Gehorsam über Befähigung stellt, überfordert zwingend die Spitze — „dem selbst Friedrich der Große nicht genügen würde“.",
+    "Die Präventivkriegs-Passage ist angewandte Entscheidungslehre: Bismarck verwirft den Präventivschlag nicht moralisch, sondern über die zweite und dritte Ordnung der Folgen — der Erfolg im Erstkontakt sei wahrscheinlich, die Neutralität der Dritten nicht, und am Ende säße „ein neuer Talleyrand“ am Tisch. Wer über disruptive Selbstkannibalisierung, Preiskriege oder feindliche Übernahmen entscheidet, findet hier das Muster: Nicht der erste Zug entscheidet, sondern die Koalitionsreaktion auf ihn. Die Olmütz-Rede schließlich formuliert den Verantwortungstest, der jede Eskalationsentscheidung überleben muss — ein Grund, „der auch nach dem Kriege noch stichhaltig ist“ —, und der Goltz-Brief seziert die Selbsttäuschung aller Stimmungsreiter: sich „vom Strome treiben lassen in der Meinung, ihn zu lenken“. Dass die zwei berühmtesten Bismarck-Sprüche hier fehlen, weil sie im Werk fehlen, ist selbst eine Führungslektion: Zitatprüfung ist Quellenkritik im Kleinen."
+  ]
+}

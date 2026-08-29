@@ -1,0 +1,68 @@
+{
+  "headnote": [
+    "Friedrich Ratzel (1844–1904), Leipziger Geograph, begründete mit der „Politischen Geographie“ (1897) die systematische Untersuchung des Verhältnisses von Staat, Boden, Lage und Raum; „Das Meer als Quelle der Völkergröße“ (1900) ist seine kompakte Seemacht-Studie — das deutsche Gegenstück zu Mahan, geschrieben mitten in der Flottendebatte. Kategorien wie Lage und Raum, die Einsicht, dass Chokepoints wie „Perim oder Singapur“ Weltbedeutung aus ihrer Umgebung ziehen, oder die Prognose einer vernetzten Welt, in der Sonderexistenzen „nur noch als Teil einer Summe fortbestehen“, machen ihn zum Klassiker geoökonomischen Denkens.",
+    "Zugleich ist Ratzel der belastetste Autor dieses Korpus, und diese Seite dokumentiert das ausdrücklich statt es zu umgehen: Seine organizistische Staatsauffassung und sein Begriff „Lebensraum“ (1901) wurden — vermittelt über Kjellén und Haushofer — zum Vokabular der NS-„Geopolitik“ und zur pseudowissenschaftlichen Rechtfertigung von Eroberung und Vernichtung. Ratzel starb 1904 und hat diese Verwendung weder gekannt noch autorisiert; sie ist gleichwohl Teil seiner Wirkungsgeschichte und der Grund, warum das Wort „Geopolitik“ im deutschen Sprachraum jahrzehntelang tabuiert war. Die Exzerpte wurden von den Fraktur-Seitenbildern der Erstausgaben transkribiert; die Einordnung leistet die Führungsperspektive unten und die Methodenseite."
+  ],
+  "sections": [
+    {
+      "id": "boden",
+      "label": "Politische Geographie — Staat und Boden (S. 4 f.)",
+      "cite": "PG 4 f.",
+      "units": [
+        {
+          "k": "1",
+          "text": "Der Mensch ist nicht ohne den Erdboden denkbar und so auch nicht das größte Werk des Menschen auf der Erde, der Staat. Wenn wir von einem Staate reden, meinen wir, gerade wie bei einer Stadt oder einem Weg, immer ein Stück Menschheit und ein menschliches Werk und zugleich ein Stück Erdboden. Sie gehören notwendig zusammen. Der Staat muß vom Boden leben. Nur die Vorteile hat er fest in der Hand, deren Boden er festhält. […] Wir sehen im Laufe der Geschichte alle politischen Kräfte sich des Bodens bemächtigen und eben dadurch staatenbildend werden."
+        },
+        {
+          "k": "2",
+          "text": "So wird uns denn der Staat zu einem Organismus, in den ein bestimmter Teil der Erdoberfläche so mit eingeht, daß sich die Eigenschaften des Staates aus denen des Volkes und des Bodens zusammensetzen. Die wichtigsten davon sind die Größe, Lage und Grenzen, dann Art und Form des Bodens samt seiner Bewachsung und seinen Gewässern, und endlich sein Verhältnis zu anderen Teilen der Erdoberfläche."
+        }
+      ]
+    },
+    {
+      "id": "lage",
+      "label": "Politische Geographie — die Lage (S. 235, 244 f.)",
+      "cite": "PG 235 ff.",
+      "units": [
+        {
+          "k": "1",
+          "text": "Die geographische Lage bezeichnet ein dem Erdboden angehöriges Beständige in der geschichtlichen Bewegung. Von einer bestimmten Erdstelle in immer gleicher Lage empfangen die Völker und Staaten immer denselben Eindruck, so wie ein Strom immer über derselben Stelle sich beruhigt oder aufwallt. […] Die Frage: Wo liegt es? ist in der Geographie immer die erste."
+        },
+        {
+          "k": "2",
+          "text": "Wo dieses Gerüst zugleich die Grenze des Staates bildet, wie bei Insel- und Halbinselländern und gebirgsumrandeten Ländern, da sehen wir die Lage mit einem so gewaltigen Uebergewicht hervortreten, daß der Raum weit zurücktritt, ja ausgeschlossen wird. Eine große Insellage in einer Meeresstraße, wie Perim oder Singapur, ist überhaupt nur in ganz kleinem Format möglich. […] So ist in der Lage des Mittelmeeres nicht nur dieses Meeresbecken von fast 3 Mill. qkm von Bedeutung, sondern was von den Umgebungen her in dieses Becken sich ergießt oder einstrahlt. […] Darin liegt die für das politische Verständnis nicht minder als für den Unterricht in der politischen Geographie wichtige praktische Lehre, daß die Lage die Ueberschätzung des Raumes korrigiert."
+        }
+      ]
+    },
+    {
+      "id": "raum",
+      "label": "Politische Geographie — der Raum im Geist der Völker (S. 334 f.)",
+      "cite": "PG 334 f.",
+      "units": [
+        {
+          "k": "1",
+          "text": "Die Räume, in die hinein wir politisch denken und planen, sind nach dem Raume gemessen, in dem wir leben. Deswegen gibt es kleine und große Raumauffassungen, und ist bei Einzelnen und Völkern zu beobachten, daß ihre Raumauffassung wächst oder zurückgeht mit ihrem Raum […]. Der große Raum fordert zu kühner Ausbreitung auf, der kleine verleitet zu zaghafter Zusammendrängung. […] In diesem Sinne ist der Raum überhaupt eine politische Kraft und nicht nur ein Träger politischer Kräfte."
+        }
+      ]
+    },
+    {
+      "id": "meer",
+      "label": "Das Meer als Quelle der Völkergröße (1900)",
+      "cite": "Meer",
+      "units": [
+        {
+          "k": "1",
+          "text": "Daß die eigentliche Weltmacht in jedem geschichtlichen Zeitalter die Macht war, die das Meer beherrschte, kann man an der Größe des beherrschten Gebietes Roms, Spaniens, Englands messen. Wenn man aber nach den dauernden Wirkungen fragt, so liegen diese in dem Uebergewicht zu Lande, das vermittelst der Seemacht gewonnen und erhalten worden ist."
+        },
+        {
+          "k": "2",
+          "text": "Diese Bewegung wird fortschreiten, vielmehr es wird der Weltverkehr diese Bewegung vorwärts treiben. […] Seitdem ein Großstaat ohne wirtschaftliche Weltinteressen undenkbar geworden ist, ist auch ein wahrer Großstaat ohne Seemacht nicht mehr zu denken. […] Vielmehr muß das Meer gemäß seiner Natur die Raummaßstäbe und die Raumansprüche steigern. Daher werden die politischen Räume anwachsen und die Länder und Völker einander immer näher bringen. Was wir heute noch als berechtigte Sonderexistenz in seiner räumlichen Absonderung anerkannten, wird bald nur noch als Teil einer Summe fortbestehen."
+        }
+      ]
+    }
+  ],
+  "exec": [
+    "Analytisch bietet Ratzel drei bleibende Werkzeuge. Erstens die Lage-Lehre: „Die Lage korrigiert die Ueberschätzung des Raumes“ — Position schlägt Masse; Singapur und Perim sind seine Beispiele, Taiwan, Suez und Rotterdam wären die heutigen; auf Märkte übertragen ist es der Unterschied zwischen Marktgröße und Positionswert im Wertschöpfungsnetz. Zweitens die Raumauffassung: Organisationen planen „in die Räume hinein, nach denen sie gemessen sind“ — der Mittelständler denkt in Bezirken, der Plattformkonzern in Kontinenten, und beide halten ihre Raumauffassung für die Realität; Ratzels Punkt, dass Raumvorstellungen selbst „eine politische Kraft“ sind, erklärt, warum expansive Narrative Wirklichkeit schaffen können. Drittens die Meer-These als Frühgeschichte der Vernetzungsökonomie: Seine Prognose, der Weltverkehr werde Sonderexistenzen zu „Teilen einer Summe“ machen, ist Globalisierungstheorie avant la lettre — inklusive des harten Schlusses, dass am Ende „der eine große Gegensatz von stark und schwach“ regiert.",
+    "Zugleich ist Ratzel die Fallstudie dieses Korpus dafür, wie Analytik toxisch wird. Der Weg von der Metapher (Staat „als“ Organismus) zur Ontologie (Staat ist ein Lebewesen mit Raumbedarf) ist kurz, und auf ihm wurde aus Beschreibung Rechtfertigung: Haushofers „Geopolitik“ machte aus Ratzels Kategorien einen Expansionsanspruch, den die NS-Führung sich einverleibte. Für Entscheider sind daraus zwei Lehren zu ziehen. Erstens Modellhygiene: Metaphern, die Handeln naturalisieren („der Markt verlangt“, „das Unternehmen muss wachsen wie ein Organismus“), entziehen Entscheidungen der Verantwortung — Webers Verantwortungsethik ist das direkte Gegengift im selben Korpus. Zweitens Rezeptionsverantwortung: Wer heute wieder „Geopolitik“ sagt — und es gibt gute Gründe, die Kategorien zu nutzen —, sollte die deutsche Belastungsgeschichte dieses Wortes kennen, statt sie zu überspielen. Genau deshalb steht Ratzel hier: dokumentiert, nicht dekoriert."
+  ]
+}

@@ -1,0 +1,65 @@
+Magistra Vitae — Management-und-Geopolitik
+Lizenzierung, nach Schichten
+===========================================
+
+1. PRIMÄRTEXTE (die exzerpierten Werke selbst)
+
+Alle Primärtexte dieser Seite sind gemeinfrei:
+
+- Deutschsprachige Originale nach Ablauf der Schutzfristen: Hörnigk,
+  Oesterreich über alles (1684); Schiller, Universalgeschichte (1789);
+  Kant, Zum ewigen Frieden (1795); Clausewitz, Vom Kriege (1832);
+  List, Das nationale System (1841); Moltke, Über Strategie / Verordnungen
+  (1869/1871, Druck 1900); Burckhardt, Weltgeschichtliche Betrachtungen
+  (1905); Ratzel, Politische Geographie (1897) und Das Meer (1900);
+  Bismarck, Gedanken und Erinnerungen (1898); Rathenau, Deutschlands
+  Rohstoffversorgung (1918); Weber, Politik als Beruf (1919).
+- Gemeinfreie Übersetzung: Thukydides, Geschichte des Peloponnesischen
+  Kriegs, übers. Adolf Wahrmund (1864; Übersetzer † 1913).
+
+An diesen Texten wird kein Urheberrecht beansprucht; ein solches besteht
+nicht.
+
+2. EDITORIALE BEITRÄGE
+
+Die eigenen editorialen Beiträge der Seite — Einführungsessay, Kopfnoten,
+Führungsperspektiven, Konkordanz-Glossen, Methodentexte — stehen unter der
+Creative-Commons-Lizenz Namensnennung 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/deed.de
+Namensnennung: „Magistra Vitae (Management-und-Geopolitik),
+Pantaleon Fassbender“.
+
+3. CODE
+
+Der Code der Seite (index.html, style.css, app.js, tools/) steht unter der
+MIT-Lizenz:
+
+MIT License
+
+Copyright (c) 2026 Pantaleon Fassbender
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+4. ABGELEITETE DATEN
+
+Die strukturierten Exzerpt-Datendateien (data/*.json), soweit Auswahl und
+Anordnung überhaupt Schutzrechte begründen, sind unter CC0 1.0 der
+Gemeinfreiheit gewidmet: https://creativecommons.org/publicdomain/zero/1.0/deed.de
+(Die editorialen Prosafelder darin — "headnote" und "exec" — bleiben CC BY 4.0
+gemäß Abschnitt 2.)

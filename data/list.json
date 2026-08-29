@@ -1,0 +1,42 @@
+{
+  "headnote": [
+    "Friedrich List (1789–1846) — württembergischer Beamter, wegen seiner Reformpetitionen auf dem Hohenasperg inhaftiert, Auswanderer, Eisenbahnpionier in Amerika und Deutschland, Gründungsfigur des Zollvereinsgedankens — schrieb mit dem „Nationalen System“ (1841) die deutsche Gegenrechnung zur Freihandelsschule. Sein Doppelargument: Erstens zählt nicht der Reichtum, sondern die Kraft, Reichtümer zu schaffen — die „produktiven Kräfte“ einer Nation, ihre Industrien, Institutionen und Fähigkeiten; zweitens predigt der, der oben ist, den anderen Freihandel, nachdem er selbst durch Schutz groß geworden ist: das berühmte Bild von der weggeworfenen Leiter.",
+    "List war kein Autarkist: Der „Erziehungszoll“ sollte befristet sein, Ziel blieb die Freihandelsfähigkeit auf Augenhöhe. Gerade das macht ihn zum Klassiker jeder heutigen Industriepolitik-Debatte — von Infant-Industry-Argumenten über Chips-Subventionen bis zur Frage, wann Schutz erzieht und wann er verwöhnt. Text nach der Ausgabe von Heinrich Waentig (Jena 1904, 2. Aufl.); die in Klammern mitlaufenden Seitenzahlen der Erstausgabe 1841 dienen als Zitiergrundlage."
+  ],
+  "sections": [
+    {
+      "id": "leiter",
+      "label": "Die Engländer — die weggeworfene Leiter (Erstausgabe S. 500–502)",
+      "cite": "NS 500 ff.",
+      "units": [
+        {
+          "k": "1",
+          "text": "Erst mit Adam Smith kam noch eine neue zu den oben aufgezählten Staatsmaximen, nämlich die: die wahre Politik Englands durch die von Adam Smith erfundenen kosmopolitischen Redensarten und Argumente zu verdecken, um fremde Nationen abzuhalten, diese Politik nachzuahmen. Es ist eine gemeine Klugheitsregel, daß man, auf den Gipfel der Größe gelangt, die Leiter, vermittels welcher man ihn erklommen, hinter sich werfe, um anderen die Mittel zu benehmen, uns nachzuklimmen. Hierin liegt das Geheimnis der kosmopolitischen Lehre Adam Smiths und der kosmopolitischen Tendenzen seines großen Zeitgenossen William Pitt und aller seiner Nachfolger in der britischen Staatsverwaltung."
+        },
+        {
+          "k": "2",
+          "text": "Eine Nation, die durch Schutzmaßregeln und Schiffahrtsbeschränkungen ihre Manufakturkraft und ihre Schiffahrt so weit zur Ausbildung gebracht hat, daß keine andere Nation freie Konkurrenz mit ihr zu halten vermag, kann nichts Klügeres tun, als diese Leiter ihrer Größe wegwerfen, anderen Nationen die Vorteile der Handelsfreiheit predigen und sich selbst reumütig anklagen, sie sei bisher auf der Bahn des Irrtums gewandelt und jetzt erst zur Erkenntnis der Wahrheit gelangt."
+        }
+      ]
+    },
+    {
+      "id": "kraefte",
+      "label": "Die Theorie der produktiven Kräfte und die Theorie der Werte (Erstausgabe S. 200–202)",
+      "cite": "NS 200 ff.",
+      "units": [
+        {
+          "k": "1",
+          "text": "Die Ursachen des Reichtums sind etwas ganz anders als der Reichtum selbst. Ein Individuum kann Reichtum, d. h. Tauschwerte besitzen, wenn es aber nicht die Kraft besitzt, mehr wertvolle Gegenstände zu schaffen, als es konsumiert, so verarmt es. Ein Individuum kann arm sein, wenn es aber die Kraft besitzt, eine größere Summe von wertvollen Gegenständen zu schaffen, als es konsumiert, so wird es reich. Die Kraft, Reichtümer zu schaffen, ist demnach unendlich wichtiger als der Reichtum selbst; sie verbürgt nicht nur den Besitz und die Vermehrung des Erworbenen, sondern auch den Ersatz des Verlorenen."
+        },
+        {
+          "k": "2",
+          "text": "Dies ist noch viel mehr der Fall bei ganzen Nationen, die nicht von Renten leben können, als bei Privaten. Deutschland ist in jedem Jahrhundert durch Pest, durch Hungersnot oder durch innere und äußere Kriege verheert worden; immer hat es aber einen großen Teil seiner produktiven Kräfte gerettet, und so gelangte es schnell wieder zu einigem Wohlstand, während das reiche und mächtige, aber despoten- und pfaffengerittene Spanien, im vollen Besitz des innern Friedens, immer tiefer in Armut und Elend versank. Noch scheint den Spaniern dieselbe Sonne, noch besitzen sie denselben Grund und Boden, noch sind ihre Bergwerke so reich, noch sind sie dasselbe Volk wie vor der Entdeckung von Amerika und vor Einführung der Inquisition: aber dieses Volk hat nach und nach seine produktive Kraft verloren, darum ist es arm und elend geworden. Der nordamerikanische Befreiungskrieg hat die Nation Hunderte von Millionen gekostet, aber ihre produktive Kraft ward durch die Erwerbung der Nationalselbständigkeit unermeßlich gestärkt."
+        }
+      ]
+    }
+  ],
+  "exec": [
+    "Die Leiter-Passage ist das meistzitierte Bild der Industriepolitik-Literatur (Ha-Joon Chang machte „Kicking Away the Ladder“ zum Buchtitel) und ein Werkzeug für zwei Blickrichtungen. Nach außen: Wenn etablierte Marktführer oder Volkswirtschaften Deregulierung, offene Standards und Freihandel predigen, lohnt Lists Frage, ob hier ein Prinzip spricht oder eine erklommene Leiter weggeworfen wird — Plattformen, die nach errungener Dominanz „Offenheit“ fordern, kennen das Muster. Nach innen: Der Erziehungszoll-Gedanke diszipliniert die eigene Subventionsdebatte, denn List selbst nennt die Bedingungen, unter denen Schutz erzieht statt verwöhnt — befristet, auf Lernfähigkeit gerichtet, mit dem erklärten Ziel, ihn überflüssig zu machen. Eine Industriepolitik, die diese Kriterien nicht besteht, ist bei List nicht gedeckt, sondern widerlegt.",
+    "Die Produktivkräfte-Lehre ist Lists nachhaltigster Beitrag zum Führungsdenken: Bilanzreichtum und Wertschöpfungsfähigkeit sind zweierlei, und im Zweifel ist die Fähigkeit „unendlich wichtiger“ — sie verbürgt „auch den Ersatz des Verlorenen“. Sein Spanien-Deutschland-Vergleich ist das historische Argument für Resilienz durch Fähigkeiten statt durch Bestände; auf Unternehmen übertragen: Ein Wettbewerber mit schwacher Bilanz und starker Lern- und Ingenieurbasis ist gefährlicher als der umgekehrte Fall, und jede Restrukturierung, die Kapazitäten „monetarisiert“, sollte Lists Unterscheidung kennen, bevor sie produktive Kräfte als Kostenposition streicht. Zusammen mit Hörnigk (dessen Veredelungsgebot List verfeinert) und gegen Kants Handelsgeist gelesen, vervollständigt List das Dreieck, in dem sich die deutsche Debatte über Handel und Sicherheit bis heute bewegt."
+  ]
+}

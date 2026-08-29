@@ -1,0 +1,46 @@
+{
+  "headnote": [
+    "Philipp Wilhelm von Hörnigk (1640–1714), Jurist und kaiserlicher Beamter, schrieb sein Buch 1684 unter dem doppelten Eindruck der türkischen Belagerung Wiens und der ökonomischen Übermacht Frankreichs. „Oesterreich über alles, wann es nur will“ — der Titel meinte keine Hymne, sondern eine These: Die habsburgischen Länder könnten aus eigenem Vermögen bestehen, wenn sie ihre Wirtschaft richtig ordneten. Das Buch wurde mit rund zwanzig Auflagen der größte ökonomische Bestseller des alten Reichs und ist der deutschsprachige Klassiker des Kameralismus — das Gegenstück zu Thomas Muns englischem Merkantilismus, aber defensiv gewendet: Nicht Welthandelsmacht ist das Ziel, sondern Unabhängigkeit.",
+    "Kernstück sind die „Neun Regeln“ der Landesökonomie in Kapitel IX: ein vollständiges Programm der Wertschöpfungskontrolle, vom Rohstoffinventar über das Veredelungsgebot bis zur Importdisziplin. Der Text folgt der wissenschaftlichen Transkription des Projekts German History in Documents and Images (GHI Washington) nach dem Druck von 1684; die Orthographie ist dort behutsam angeglichen."
+  ],
+  "sections": [
+    {
+      "id": "k6",
+      "label": "Kapitel VI — auf niemand als Gott und sich selbst",
+      "cite": "OüA VI",
+      "units": [
+        {
+          "k": "1",
+          "text": "Auch konnten sich vor hundert Jahren die Voreltern in Türken und anderer Not noch auf das Römische Reich und die Nebenstände verlassen. Zu unsern Zeiten aber gehet durch die List der Franzosen alles in solche Zerrüttung, daß man sein Datum auf niemand als Gott und sich selbst setzen muß und fast keiner dem andern, wann es ihn gleich selbst mit angehet, den wenigsten nachbarlichen Beistand ohne bare Bezahlung leisten will. Dahero ist einem jeden geraten, auf seiner eigenen Hut zu stehen. Dann wer in Zeit der Not zu Haus im Beutel wohl fortifiziert ist, wohl dem! Wo nicht, so mag er alsdann sich resolvieren, nicht nur des Feindes, sondern auch der Freunde und Helfer untergebener Knecht zu sein."
+        }
+      ]
+    },
+    {
+      "id": "k9",
+      "label": "Kapitel IX — die Neun Regeln der Landesökonomie",
+      "cite": "OüA IX",
+      "units": [
+        {
+          "k": "1",
+          "text": "Bestehet nun die Macht und Fürtrefflichkeit eines Landes in dessen Überfluß an Gold, Silber und allen andern zu seiner Subsistenz erforderlichen und bequemen Dingen, und zwar solches alles so viel möglich, aus seinem eigenen Vermögen, ohne Dependenz von andern […], so folget, daß eine gemeine Landsökonomie darauf zu sehen habe, wie solcher Überfluß, Pflege und Genuß aus eigenem Vermögen und ohne Dependenz von andern […] zuwege gebracht werde. Zu welchem Ende dann fürnehmlich nachfolgende neun Reguln dienen müssen."
+        },
+        {
+          "k": "2",
+          "text": "Erstlich kommet die Art des Landes aufs genaueste zu beobachten und zu erkennen, kein Winkel, kein Erdschollen, ob es des Bauens fähig, unbesprochen zu lassen. […] Zweitens: Alle in einem Land fallende Güter, so in ihrer rohen Gestalt nicht genutzet werden mögen, seind innerhalb desselben zu verarbeiten. Angesehen der Lohn von Fabricatur den Wert des rohen Zeugs gemeiniglich zwei, drei, zehen, zwanzig, auch wohl hundertfach übertrifft, welchen zu verwerfen bei verständigen Haushältern ein Greuel ist. Drittens: Zu Vollstreckung obiger beider Reguln gehören Leute […]. Dannenhero auf die Bevolkung eines Landes, so viel Menschen nur immer sich drinnen ernähren können, als eines wohlgeordneten Staats höchste, aber leider! bei vielen wenig geachtete Angelegenheit, zu schauen ist. Und solche Leute seind in alle mögliche Weis und Wege aus dem Müßiggang in eine nahrhafte Profession zu bringen, zu allerhand Inventionen, Künsten und Handarbeiten zu unterrichten und aufzumuntern, und wo nötig, die Lehrmeister dessen aus der Fremde herein zu vermögen."
+        },
+        {
+          "k": "3",
+          "text": "Viertens: Gold und Silber, so einmal in das Land […] kommen, ist in keinerlei Weis noch Wege […] wieder hinaus zu vertragen, noch zuzugeben, daß es in Küsten oder Kasten vergraben werde, sondern immerzu in der Cirkulation bleibe […]. Fünftens, die Landsinwohner aus allen Kräften dahin zu halten, daß sie sich an ihren einheimischen Gütern begnügen […]. Und was endlich noch Sechstens abginge und besagter maßen aus Not oder um unremedierlichen Mißbrauchs willen unentbehrlich wäre, solches bei denen Fremden, so weit es nur immer möglich, von erster Hand, nicht um Gold oder Silber, sondern um Austauschung anderer inländischer Waren abzuholen."
+        },
+        {
+          "k": "4",
+          "text": "Siebentens: Sothane fremde Waren sollen alsdann in roher Gestalt genommen, innerhalb Landes fabriziert und der Manufaktur-Lohn allda selbst verdient werden. Achtens: Nacht und Tag ist darob zu sein, wie die im Land gefallene überflüssige Güter bei denen Ausländern in verarbeiteter Gestalt, so weit solches nötig, und zwar um Gold und Silber anzuwenden, und zu dem Ende die Konsumption sozusagen bis an das äußerste Ende der Welt zu suchen und selbige in alle Weis und Wege zu befördern. Neuntens ist außer wichtigen Bedenkens in keinerlei Weis und Weg zu gestatten, daß Güter, deren Art inner Landes zu Genüge und in erträglicher Güte fällig, von außen hinein gebracht werden, worinnen denen Auswärtigen weder Mitleiden noch Barmherzigkeit zu tragen, sie seien gleich Freunde, Verwandten, Alliierte oder Feinde. Denn da hat alle Freundschaft ein Ende, wo solche zu meiner Schwächung und Verderbung angesehen."
+        }
+      ]
+    }
+  ],
+  "exec": [
+    "Hörnigks Neun Regeln sind das historische Urbild jeder Standort- und Industriepolitik-Debatte im deutschsprachigen Raum — und ihre Begriffe kehren mit verblüffender Wörtlichkeit wieder: Regel 1 ist das nationale Rohstoff- und Fähigkeiteninventar (heute: kritische Rohstoffe, Kompetenz-Mapping); Regel 2 das Veredelungsgebot — Wertschöpfung im Land halten, weil „der Lohn von Fabricatur“ den Rohstoffwert um das Hundertfache übertrifft (heute: Downstream-Strategien, Batterie- statt Lithiumexport); Regel 3 die Fachkräftepolitik samt gezielter Anwerbung ausländischer „Lehrmeister“; die Regeln 5–9 Importdisziplin und Exportförderung bis „an das äußerste Ende der Welt“. Wer die aktuelle Debatte über wirtschaftliche Souveränität, De-Risking und strategische Abhängigkeiten führt, argumentiert in Hörnigks Kategorien — meist ohne es zu wissen.",
+    "Für die Führungsetage liegt der Wert des Textes in zwei Richtungen. Erstens als Denkmuster der Gegenseite: Regierungen, die Lokalisierungsauflagen, Local-Content-Regeln oder Exportkontrollen verhängen, folgen einer Logik, die hier in ihrer reinsten Form vorliegt — einschließlich der eisigen neunten Regel, dass beim Schutz der eigenen Wertschöpfung „alle Freundschaft ein Ende“ hat, „sie seien gleich Freunde, Verwandten, Alliierte oder Feinde“. Zweitens als Warnung vor der eigenen Versuchung: Die Grenzen des Programms — Wohlstandsverluste durch Autarkie, die Smith und List später je verschieden diagnostizierten — gehören mitgelesen; das Kapitel VI zeigt zudem, aus welcher Erfahrung solches Denken wächst: aus dem Moment, in dem sich ein Gemeinwesen „auf niemand als Gott und sich selbst“ verlassen zu können glaubt. Es ist der Zeitenwende-Affekt des 17. Jahrhunderts — und er sollte als Affekt erkannt werden, auch wo er berechtigt ist."
+  ]
+}

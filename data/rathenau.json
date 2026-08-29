@@ -1,0 +1,61 @@
+{
+  "headnote": [
+    "Walther Rathenau (1867–1922) ist die Schnittstellenfigur dieses Korpus: Industrieller (Präsident der AEG), Schriftsteller, später Wiederaufbau- und Außenminister der Republik, 1922 von Rechtsterroristen ermordet. Im August 1914 erkannte er vor fast allen anderen, dass die britische Blockade Deutschland ökonomisch erdrosseln würde, ging aus eigenem Antrieb ins Kriegsministerium — und baute binnen Wochen die Kriegsrohstoffabteilung (KRA) auf: die erste systematische Bewirtschaftung strategischer Rohstoffe der Industriegeschichte, organisiert in hybriden „Kriegsgesellschaften“ zwischen Privatwirtschaft und Staat.",
+    "Der Vortrag „Deutschlands Rohstoffversorgung“ (gehalten am 20. Dezember 1915) ist sein eigener Bericht darüber — Managementprosa ersten Ranges: Lageerkenntnis, Eskalation an die Spitze, Organisationsaufbau unter höchster Unsicherheit, und am Ende die Institutionalisierungsfrage („wirtschaftlicher Generalstab“). Er ist zugleich ein Dokument mit Doppelboden: Die hier erfundene Kriegswirtschaft wurde Vorbild für Planwirtschaften des 20. Jahrhunderts — und Rathenaus Schlusssatz über die Vorbereitung künftiger Kriege liest sich 1915 anders als nach 1945. Text nach den Gesammelten Schriften Bd. 5 (S. Fischer 1918), jede Passage am Seitenbild verifiziert."
+  ],
+  "sections": [
+    {
+      "id": "lage",
+      "label": "Die Lage — die belagerte Festung (S. 27 f.)",
+      "cite": "DR 27 f.",
+      "units": [
+        {
+          "k": "1",
+          "text": "Am 4. August des letzten Jahres, als England den Krieg erklärte, geschah das Ungeheuerliche und nie Gewesene: unser Land wurde zur belagerten Festung. Geschlossen zu Lande und geschlossen zur See war es nun angewiesen auf sich selbst; und der Krieg lag vor uns, unübersehbar in Zeit und Aufwand, in Gefahr und Opfer."
+        },
+        {
+          "k": "2",
+          "text": "Drei Tage nach der Kriegserklärung trug ich die Ungewißheit unsrer Lage nicht länger, ich ließ mich melden bei dem Chef des Allgemeinen Kriegsdepartements, dem Oberst Scheüch und wurde am 8. August abends freundlich von ihm aufgenommen. Ihm legte ich dar, daß unser Land vermutlich nur auf eine beschränkte Reihe von Monaten mit den unentbehrlichen Stoffen der Kriegswirtschaft versorgt sein könne. Die Kriegsdauer schätzte er nicht geringer ein als ich selbst, und so mußte ich an ihn die Frage richten: Was ist geschehen, was kann geschehen, um die Gefahr der Erwürgung von Deutschland abzuwenden?"
+        },
+        {
+          "k": "3",
+          "text": "Es war Sonntag der 9. August. Ich dankte dem Minister und sagte ihm: ich bewunderte, daß er in dieser Mobilmachungszeit in der Lage sei, seine Zeit zu opfern, um sich mit fremden Gedanken zu befassen. Er antwortete, indem er auf seinen Schreibtisch wies: Sie sehen, dieser Tisch ist leer. Die große Arbeit ist getan, die Mobilmachung ist vorüber; es ist nicht eine Reklamation gekommen, und ich habe Zeit, Besuche zu empfangen. Die Unterhaltung währte einen Teil des Vormittags, und als sie endete, war der Beschluß des Kriegsministers gefaßt, eine Organisation zu schaffen, gleichviel wie groß, gleichviel mit welchen Mitteln; sie mußte wirksam sein und mußte die Aufgabe lösen, die uns auferlegt war."
+        }
+      ]
+    },
+    {
+      "id": "organisation",
+      "label": "Die Organisation — die Kriegs-Rohstoff-Gesellschaften (S. 40–42)",
+      "cite": "DR 40 ff.",
+      "units": [
+        {
+          "k": "1",
+          "text": "Es mußten Organismen geschaffen werden zum Aufsaugen, Aufspeichern und zum Verteilen dieses Warenstromes, der in einer neuen Bewegungsform und mit neuen Zufuhren durch die Adern des deutschen Verkehrs rollte. Da mußte abermals ein neuer Begriff entstehen, der Begriff der Kriegswirtschafts-Gesellschaften. […] Auf der einen Seite war ein entschiedener Schritt zum Staatssozialismus geschehen; der Güterverkehr gehorchte nicht mehr dem freien Spiel der Kräfte, sondern war zwangsläufig geworden. Auf der andern Seite wurde eine Selbstverwaltung der Industrie, und zwar in größtem Umfang, durch die neuen Organisationen angestrebt; wie sollten die gegenläufigen Grundsätze sich vertragen?"
+        },
+        {
+          "k": "2",
+          "text": "So entstand der Begriff der Kriegsgesellschaft aus dem Wesen der Selbstverwaltung und dennoch nicht der schrankenlosen Freiheit. Die Kriegs-Rohstoff-Gesellschaften wurden gegründet mit straffer behördlicher Aufsicht. Kommissare der Reichsbehörden und der Ministerien haben das unbeschränkte Veto; die Gesellschaften sind gemeinnützig, weder Dividenden noch Liquidationsgewinne dürfen sie verteilen; sie haben neben den gewöhnlichen Organen der Aktiengesellschaften, Vorstand und Aufsichtsrat, noch ein weiteres Organ, eine unabhängige Kommission […]. Auf diese Weise stehen sie da als ein Mittelglied zwischen der Aktiengesellschaft, welche die freie wirtschaftlich-kapitalistische Form verkörpert, und einem behördlichen Organismus; eine Wirtschaftsform, die vielleicht in kommende Zeiten hinüberdeutet."
+        }
+      ]
+    },
+    {
+      "id": "zukunft",
+      "label": "Die Lehren — der wirtschaftliche Generalstab (S. 53, 55)",
+      "cite": "DR 53 ff.",
+      "units": [
+        {
+          "k": "1",
+          "text": "Aber eine Wirkung in die Ferne der Zeiten werden schon wir erleben: das ist eine neue Fürsorge der Bewirtschaftung, eine neue Auffassung vom Rohstoff. Vieles wird ersetzt bleiben, was man für unersetzlich hielt; an vielen Stellen, wo man fremde Metalle verwandte, wird man einheimische verwenden […]. Unsre Wirtschaft wird in doppeltem Sinne unabhängiger, denn wir hängen nicht mehr ab vom Wohlwollen des Verkäufers, noch vom Wohlwollen unsres Gläubigers, dem wir zu zahlen haben und der es unter Umständen in der Hand hat, durch Erhöhung seiner Zollmauer das Zahlungsmittel unsrer Ware zu entwerten."
+        },
+        {
+          "k": "2",
+          "text": "Die Rohstoff-Abteilung wird auch im Frieden nicht zu bestehen aufhören, sie wird den Kern eines wirtschaftlichen Generalstabes bilden. Vielleicht wird sie ihren Namen ändern; ich möchte wünschen, daß sie anstatt Kriegs-Rohstoff-Abteilung in Zukunft „Kriegswirtschafts-Abteilung“ hieße, denn das ist sie schon heute in manchem Sinne. Nie wieder kann und darf es uns geschehen, daß wir wirtschaftlich unzulänglich vorbereitet in einen neuen Krieg hineinkommen. In höchster Anspannung müssen alle künftigen Friedensjahre dieser Vorbereitung dienen."
+        }
+      ]
+    }
+  ],
+  "exec": [
+    "Als Managementdokument ist der Vortrag kaum zu überbieten. Erstens die Lageerkenntnis: Rathenau sieht die Verwundbarkeit („belagerte Festung“, „Gefahr der Erwürgung“), weil er als Industrieller die Stoffströme kennt, die der Militärapparat nicht auf dem Radar hat — das klassische Argument dafür, dass Risikoerkennung dort sitzt, wo die operative Sachkenntnis sitzt, nicht wo die Zuständigkeit. Zweitens die Eskalation: Er wartet nicht auf ein Mandat, sondern verschafft sich binnen drei Tagen Zugang zur Entscheidungsebene; und Falkenhayns leerer Schreibtisch ist das Lehrstück auf der Gegenseite — die Spitze, die sich Kapazität für „fremde Gedanken“ freihält und binnen eines Vormittags eine Organisation „gleichviel wie groß, gleichviel mit welchen Mitteln“ autorisiert. Drittens das Organisationsdesign: Die Kriegsgesellschaften — privatrechtliche Form, Gemeinnützigkeit, behördliches Veto, unabhängige Preis- und Verteilungskommission — sind ein bis heute lesbares Muster für Public-Private-Krisenstrukturen, von Gasbeschaffung bis Impfstofflogistik.",
+    "Zugleich verlangt der Text doppelte Lektüre. Die Zukunftspassagen sind die Geburtsurkunde der Versorgungssicherheit als Daueraufgabe — Substitution, Kreislaufdenken, Unabhängigkeit von „Wohlwollen des Verkäufers“ und von der Finanzmacht des Gläubigers: das Vokabular heutiger Rohstoffstrategien und De-Risking-Papiere, 1915 komplett vorformuliert, bis hin zum „wirtschaftlichen Generalstab“. Aber der Schlusssatz — nie wieder „wirtschaftlich unzulänglich vorbereitet“ in einen Krieg — zeigt, wohin Versorgungslogik ohne politisches Korrektiv treibt: in die Dauerkriegsvorbereitung; die von Rathenau geschaffenen Strukturen wurden Referenz für die Planwirtschaften und die NS-Bewirtschaftung. Resilienz ist ein Mittel, und die Frage „wofür?“ — Kants und Webers Frage im selben Korpus — bleibt ihr vorgeordnet. Dass ihr Erfinder sieben Jahre später als Außenminister der Verständigungspolitik ermordet wurde, gehört zu diesem Kapitel."
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "thukydides",
+    "author": "Thukydides",
+    "title": "Geschichte des Peloponnesischen Kriegs",
+    "date": "um 400 v. Chr.",
+    "line": "state",
+    "edition": "Übersetzt von Adolf Wahrmund (Stuttgart 1864)",
+    "abbr": "Thuk.",
+    "blurb": "Machtverschiebung und Furcht als Kriegsursache, das Urteil über Perikles als Führungslehre, die Verwirrung der Begriffe im Bürgerkrieg — und der Melierdialog, das härteste Verhandlungsprotokoll der Weltliteratur. „Ein Besitzthum für alle Zeiten.“"
+  },
+  {
+    "id": "hoernigk",
+    "author": "Philipp Wilhelm von Hörnigk",
+    "title": "Oesterreich über alles, wann es nur will",
+    "date": "1684",
+    "line": "trade",
+    "edition": "Originaltext 1684 (Transkription: German History in Documents and Images)",
+    "abbr": "OüA",
+    "blurb": "Die Neun Regeln des Kameralismus: Wertschöpfung im Land halten, Rohstoffe veredeln, Abhängigkeiten meiden. Das deutschsprachige Urdokument der Debatte um wirtschaftliche Souveränität — geschrieben unter dem Eindruck französischer Übermacht."
+  },
+  {
+    "id": "schiller",
+    "author": "Friedrich Schiller",
+    "title": "Was heißt und zu welchem Ende studiert man Universalgeschichte?",
+    "date": "1789",
+    "line": "state",
+    "edition": "Jenaer Antrittsvorlesung, Originaltext (Der Teutsche Merkur 1789)",
+    "abbr": "UG",
+    "blurb": "Die Gründungsurkunde des Programms dieser Seite: warum Geschichte die Gegenwart erklärt — und das unsterbliche Porträt des „Brodgelehrten“, der jede Neuerung fürchtet, gegen den philosophischen Kopf, der sie sucht."
+  },
+  {
+    "id": "kant",
+    "author": "Immanuel Kant",
+    "title": "Zum ewigen Frieden. Ein philosophischer Entwurf",
+    "date": "1795",
+    "line": "trade",
+    "edition": "Originaltext 1795/96",
+    "abbr": "ZeF",
+    "blurb": "Handelsgeist gegen Krieg, Staatsschulden als „gefährliche Geldmacht“, Besuchsrecht statt Eroberung — und eine Kolonialismuskritik von erschreckender Aktualität. Der deutsche Grundtext der regelbasierten Ordnung."
+  },
+  {
+    "id": "clausewitz",
+    "author": "Carl von Clausewitz",
+    "title": "Vom Kriege",
+    "date": "1832",
+    "line": "strat",
+    "edition": "Originaltext (Erstausgabe Berlin 1832 ff.)",
+    "abbr": "VK",
+    "blurb": "Der tiefste je geschriebene Text über das Scheitern von Plänen: Friktion, Nebel, Zufall — und der Primat der Politik. Hier im Original, nicht in der Übersetzung: „Der Krieg ist eine bloße Fortsetzung der Politik mit anderen Mitteln.“"
+  },
+  {
+    "id": "list",
+    "author": "Friedrich List",
+    "title": "Das nationale System der politischen Ökonomie",
+    "date": "1841",
+    "line": "trade",
+    "edition": "Originaltext 1841 (Ausgabe Waentig, Jena 1904)",
+    "abbr": "NS",
+    "blurb": "Produktivkräfte statt Tauschwerte, der Erziehungszoll — und die berühmte Leiter, die der Erste wegwirft, wenn er oben ist. Die deutsche Gegenrechnung zu Adam Smith und das Urbuch jeder Industriepolitik-Debatte."
+  },
+  {
+    "id": "moltke",
+    "author": "Helmuth von Moltke d. Ä.",
+    "title": "Über Strategie · Aus den Verordnungen für die höheren Truppenführer",
+    "date": "1869 / 1871",
+    "line": "strat",
+    "edition": "Moltkes Militärische Werke II.2 (Berlin 1900), von den Seitenbildern transkribiert",
+    "abbr": "MW",
+    "blurb": "„Kein Operationsplan reicht mit einiger Sicherheit über das erste Zusammentreffen mit der feindlichen Hauptmacht hinaus“ — Strategie als „System der Aushülfen“ und die Geburtsurkunde der Auftragstaktik: Führen über Zweck statt über Befehl."
+  },
+  {
+    "id": "burckhardt",
+    "author": "Jacob Burckhardt",
+    "title": "Weltgeschichtliche Betrachtungen",
+    "date": "1868–1871 / 1905",
+    "line": "state",
+    "edition": "Vorlesungen, hg. von Jakob Oeri (1905); Text nach der Gutenberg-DE-Digitalisierung",
+    "abbr": "WB",
+    "blurb": "„Die Macht ist an sich böse“ — der kühlste Blick des 19. Jahrhunderts auf Macht, Größe und Krisen: wie geschichtliche Beschleunigung entsteht und warum das „brillante Narrenspiel der Hoffnung“ jede Krise begleitet."
+  },
+  {
+    "id": "ratzel",
+    "author": "Friedrich Ratzel",
+    "title": "Politische Geographie · Das Meer als Quelle der Völkergröße",
+    "date": "1897 / 1900",
+    "line": "strat",
+    "edition": "Erstausgaben Oldenbourg 1897/1900, von den Seitenbildern transkribiert",
+    "abbr": "PG",
+    "blurb": "Lage, Raum, Meer: die Begründung der deutschen politischen Geographie — hier dokumentiert samt ihrer Wirkungsgeschichte, die über Haushofer in die NS-„Geopolitik“ führte. Quellenlektüre mit ausdrücklicher kritischer Einordnung."
+  },
+  {
+    "id": "bismarck",
+    "author": "Otto von Bismarck",
+    "title": "Gedanken und Erinnerungen",
+    "date": "1898",
+    "line": "state",
+    "edition": "Text nach zeno.org (Ausgabe 1959), Kernstellen gegen die Erstausgabe Cotta 1898 geprüft",
+    "abbr": "GE",
+    "blurb": "Der „cauchemar des coalitions“, die grundsätzliche Absage an den Präventivkrieg, das Staatsschiff in den „Strömungen der Coalitionen“ — Bündnismanagement und Verantwortungsethik des Praktikers, von Apokryphen befreit."
+  },
+  {
+    "id": "rathenau",
+    "author": "Walther Rathenau",
+    "title": "Deutschlands Rohstoffversorgung",
+    "date": "1915 / 1918",
+    "line": "trade",
+    "edition": "Vortrag vom 20. Dezember 1915; Gesammelte Schriften Bd. 5 (S. Fischer 1918), seitengenau bildverifiziert",
+    "abbr": "DR",
+    "blurb": "Der AEG-Chef organisiert im August 1914 die Rohstoffbewirtschaftung eines blockierten Landes — die Geburtsstunde der Versorgungssicherheit als Führungsaufgabe, bis hin zum „wirtschaftlichen Generalstab“. Das historische Urbild jeder Supply-Chain-Resilienz."
+  },
+  {
+    "id": "weber",
+    "author": "Max Weber",
+    "title": "Politik als Beruf",
+    "date": "1919",
+    "line": "state",
+    "edition": "Vortrag München 1919, Originaltext (Duncker & Humblot 1919)",
+    "abbr": "PaB",
+    "blurb": "Leidenschaft, Verantwortungsgefühl, Augenmaß; Gesinnungs- gegen Verantwortungsethik; die drei Legitimitätsgründe der Herrschaft — und das „starke langsame Bohren von harten Brettern“. Der Grundtext moderner Führungsethik."
+  }
+]

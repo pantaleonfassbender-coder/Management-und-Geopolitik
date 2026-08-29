@@ -1,0 +1,79 @@
+{
+  "headnote": [
+    "Carl von Clausewitz (1780–1831) focht gegen Napoleon von Jena bis Waterloo, leitete die Allgemeine Kriegsschule in Berlin und starb an der Cholera, ehe er „Vom Kriege“ (1832 ff. postum) vollenden konnte — nur das erste Kapitel des ersten Buches hielt er selbst für fertig, und er bat, das Ganze von dort aus zu lesen. Die Größe des Werks liegt in seiner doppelten Abwehr: gegen die Geometer der Strategie besteht es darauf, dass der Krieg ein Reich der Friktion, des Zufalls und der Leidenschaft ist, das keine Formel bändigt; gegen die Romantiker darauf, dass er Instrument der Politik bleibt und nie Selbstzweck werden darf.",
+    "Hier steht der Text im deutschen Original — die Schwesterseite dieses Projekts bietet ihn in Grahams englischer Übersetzung von 1873; der Vergleich beider Fassungen ist selbst eine Übung in Begriffspräzision. Textgrundlage ist die digitale Ausgabe der Clausewitz-Gesellschaft nach dem Text der Erstausgabe in behutsam modernisierter Orthographie; die Paragraphenzählung folgt dem ersten Kapitel."
+  ],
+  "sections": [
+    {
+      "id": "s24",
+      "label": "Buch I, Kap. 1, § 24 — Fortsetzung der Politik",
+      "cite": "VK I.1 §24",
+      "units": [
+        {
+          "k": "1",
+          "text": "So sehen wir also, daß der Krieg nicht bloß ein politischer Akt, sondern ein wahres politisches Instrument ist, eine Fortsetzung des politischen Verkehrs, ein Durchführen desselben mit anderen Mitteln. Was dem Kriege nun noch eigentümlich bleibt, bezieht sich bloß auf die eigentümliche Natur seiner Mittel. Daß die Richtungen und Absichten der Politik mit diesen Mitteln nicht in Widerspruch treten, das kann die Kriegskunst im allgemeinen und der Feldherr in jedem einzelnen Falle fordern, und dieser Anspruch ist wahrlich nicht gering; aber wie stark er auch in einzelnen Fällen auf die politischen Absichten zurückwirkt, so muß dies doch immer nur als eine Modifikation derselben gedacht werden, denn die politische Absicht ist der Zweck, der Krieg ist das Mittel, und niemals kann das Mittel ohne Zweck gedacht werden."
+        }
+      ]
+    },
+    {
+      "id": "s27",
+      "label": "Buch I, Kap. 1, § 27 — der erste Akt des Urteils",
+      "cite": "VK I.1 §27",
+      "units": [
+        {
+          "k": "1",
+          "text": "Der erste, der großartigste, der entschiedenste Akt des Urteils nun, welchen der Staatsmann und Feldherr ausübt, ist der, daß er den Krieg, welchen er unternimmt, in dieser Beziehung richtig erkenne, ihn nicht für etwas nehme oder zu etwas machen wolle, was er der Natur der Verhältnisse nach nicht sein kann. Dies ist also die erste, umfassendste aller strategischen Fragen."
+        }
+      ]
+    },
+    {
+      "id": "s28",
+      "label": "Buch I, Kap. 1, § 28 — die wunderliche Dreifaltigkeit",
+      "cite": "VK I.1 §28",
+      "units": [
+        {
+          "k": "1",
+          "text": "Der Krieg ist also nicht nur ein wahres Chamäleon, weil er in jedem konkreten Falle seine Natur etwas ändert, sondern er ist auch seinen Gesamterscheinungen nach, in Beziehung auf die in ihm herrschenden Tendenzen eine wunderliche Dreifaltigkeit, zusammengesetzt aus der ursprünglichen Gewaltsamkeit seines Elementes, dem Haß und der Feindschaft, die wie ein blinder Naturtrieb anzusehen sind, aus dem Spiel der Wahrscheinlichkeiten und des Zufalls, die ihn zu einer freien Seelentätigkeit machen, und aus der untergeordneten Natur eines politischen Werkzeuges, wodurch er dem bloßen Verstande anheimfällt. Die erste dieser drei Seiten ist mehr dem Volke, die zweite mehr dem Feldherrn und seinem Heer, die dritte mehr der Regierung zugewendet."
+        },
+        {
+          "k": "2",
+          "text": "Diese drei Tendenzen, die als ebenso viele verschiedene Gesetzgebungen erscheinen, sind tief in der Natur des Gegenstandes gegründet und zugleich von veränderlicher Größe. Eine Theorie, welche eine derselben unberücksichtigt lassen oder zwischen ihnen ein willkürliches Verhältnis feststellen wollte, würde augenblicklich mit der Wirklichkeit in solchen Widerspruch geraten, daß sie dadurch allein schon wie vernichtet betrachtet werden müßte."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "label": "Buch I, Kap. 3 — Ungewißheit und Zufall",
+      "cite": "VK I.3",
+      "units": [
+        {
+          "k": "1",
+          "text": "Der Krieg ist das Gebiet der Ungewißheit; drei Vierteile derjenigen Dinge, worauf das Handeln im Kriege gebaut wird, liegen im Nebel einer mehr oder weniger großen Ungewißheit. Hier ist es also zuerst, wo ein feiner, durchdringender Verstand in Anspruch genommen wird, um mit dem Takte seines Urteils die Wahrheit herauszufühlen."
+        },
+        {
+          "k": "2",
+          "text": "Der Krieg ist das Gebiet des Zufalls. In keiner menschlichen Tätigkeit muß diesem Fremdling ein solcher Spielraum gelassen werden, weil keine so nach allen Seiten hin in beständigem Kontakt mit ihm ist. Er vermehrt die Ungewißheit aller Umstände und stört den Gang der Ereignisse. Jene Unsicherheit aller Nachrichten und Voraussetzungen, diese beständigen Einmischungen des Zufalls machen, daß der Handelnde im Kriege die Dinge beständig anders findet, als er sie erwartet hatte."
+        }
+      ]
+    },
+    {
+      "id": "c7",
+      "label": "Buch I, Kap. 7 — die Friktion",
+      "cite": "VK I.7",
+      "units": [
+        {
+          "k": "1",
+          "text": "Es ist alles im Kriege sehr einfach, aber das Einfachste ist schwierig. Diese Schwierigkeiten häufen sich und bringen eine Friktion hervor, die sich niemand richtig vorstellt, der den Krieg nicht gesehen hat. […] So stimmt sich im Kriege durch den Einfluß unzähliger kleiner Umstände, die auf dem Papier nie gehörig in Betrachtung kommen können, alles herab, und man bleibt weit hinter dem Ziel. Ein mächtiger eiserner Wille überwindet diese Friktion, er zermalmt die Hindernisse, aber freilich die Maschine mit."
+        },
+        {
+          "k": "2",
+          "text": "Friktion ist der einzige Begriff, welcher dem ziemlich allgemein entspricht, was den wirklichen Krieg von dem auf dem Papier unterscheidet. Die militärische Maschine, die Armee und alles, was dazu gehört, ist im Grunde sehr einfach und scheint deswegen leicht zu handhaben. Aber man bedenke, daß kein Teil davon aus einem Stücke ist, daß alles aus Individuen zusammengesetzt ist, deren jedes seine eigene Friktion nach allen Seiten hin behält."
+        }
+      ]
+    }
+  ],
+  "exec": [
+    "Clausewitz ist der übertragbarste Militärtheoretiker, weil sein Gegenstand nicht die Taktik ist, sondern die Erkenntnislage des Handelns. § 24 ist das Governance-Prinzip: Operationen sind Fortsetzung der Strategie, „die politische Absicht ist der Zweck, der Krieg ist das Mittel“ — wo die Kampagnen einer Geschäftseinheit beginnen, den Unternehmenszweck zu treiben statt ihm zu dienen, schlägt der Clausewitz-Alarm. § 27 formuliert die erste Führungsaufgabe vor jedem großen Vorhaben: das Unternehmen richtig zu erkennen und „nicht zu etwas machen zu wollen, was es der Natur der Verhältnisse nach nicht sein kann“ — die Mutter aller Scoping-Fehler, von der Akquisition, die eine Sanierung ist, bis zur Transformation, die als Kostenprogramm etikettiert wird. Die Dreifaltigkeit (§ 28) taugt als Diagnose für jedes Großvorhaben: Es läuft auf Leidenschaft (Energie und Moral der Belegschaft), Wahrscheinlichkeit (Können und Glück der Operateure) und Verstand (Zweck der Führung) — „eine Theorie, welche eine derselben unberücksichtigt lassen wollte“, zerstört sich selbst: die Transformation ohne emotionale Trägerschaft, der Plan ohne Raum für Zufall, das begeisterte Team ohne Zweck.",
+    "Kapitel 3 gehört in jede Planungsrunde: Drei Viertel der entscheidungsrelevanten Tatsachen liegen „im Nebel“, und der Handelnde findet die Dinge „beständig anders, als er sie erwartet hatte“ — die Antwort ist nicht mehr Datensammlung, sondern der „Takt des Urteils“: trainierte Urteilskraft plus vorab definierte Auslöser, welche Signale welche Reaktion starten. Die Friktion (Kap. 7) erklärt, warum Integrationen, ERP-Migrationen und Markteintritte hinter dem Papier zurückbleiben: Organisationen sind „aus Individuen zusammengesetzt, deren jedes seine eigene Friktion nach allen Seiten hin behält“. Und der Satz vom eisernen Willen, der die Hindernisse zermalmt, „aber freilich die Maschine mit“, ist die beste Ein-Satz-Rezension eines bestimmten Sanierungsstils, die je geschrieben wurde. Moltke — im Korpus das nächste Werk der Linie — hat aus genau diesen Kapiteln die deutsche Führungspraxis abgeleitet."
+  ]
+}

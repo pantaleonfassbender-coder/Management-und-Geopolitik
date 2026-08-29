@@ -1,0 +1,64 @@
+{
+  "headnote": [
+    "Immanuel Kant (1724–1804) veröffentlichte den „philosophischen Entwurf“ 1795, im Jahr des Basler Friedens, in der ironischen Form eines Friedensvertrags: Präliminarartikel, die die Kriegsursachen abbauen, Definitivartikel, die den Frieden begründen, und „Zusätze“, in denen die Natur selbst — durch den Eigennutz — dem Recht zuarbeitet. Der Text ist der deutsche Grundtext der regelbasierten internationalen Ordnung: Auf ihm stehen der Völkerbund, die Vereinten Nationen und die These vom demokratischen Frieden; seine Formel vom „Handelsgeist, der mit dem Kriege nicht zusammen bestehen kann“, ist das klassische Argument für Frieden durch Verflechtung — dessen Grenzen die Gegenwart gerade neu vermisst.",
+    "Die Auswahl zeigt Kants Realismus, der oft überlesen wird: Die Präliminarartikel über stehende Heere und Kriegsfinanzierung durch Schulden analysieren Rüstungsspiralen und Finanzmacht mit kalter Präzision; die Passage über das „inhospitale Betragen der gesittigten, vornehmlich handeltreibenden Staaten“ ist eine der schärfsten Kolonialismuskritiken des Jahrhunderts — geschrieben von einem Zeitgenossen der Ostindienkompanien. Text nach dem Erstdruck 1795/96 (Projekt-Gutenberg-Ausgabe), Originalorthographie."
+  ],
+  "sections": [
+    {
+      "id": "prae3",
+      "label": "Dritter Präliminarartikel — stehende Heere",
+      "cite": "ZeF Präl. 3",
+      "units": [
+        {
+          "k": "1",
+          "text": "»Stehende Heere (miles perpetuus) sollen mit der Zeit ganz aufhören.« Denn sie bedrohen andere Staaten unaufhörlich mit Krieg, durch die Bereitschaft, immer dazu gerüstet zu erscheinen; reitzen diese an, sich einander in Menge der gerüsteten, die keine Grenzen kennt, zu übertreffen, und, indem durch die darauf verwandten Kosten der Friede endlich noch drückender wird als ein kurzer Krieg, so sind sie selbst Ursache von Angriffskriegen, um diese Last loszuwerden."
+        }
+      ]
+    },
+    {
+      "id": "prae4",
+      "label": "Vierter Präliminarartikel — Staatsschulden als Geldmacht",
+      "cite": "ZeF Präl. 4",
+      "units": [
+        {
+          "k": "1",
+          "text": "»Es sollen keine Staatsschulden in Beziehung auf äußere Staatshändel gemacht werden.« Zum Behuf der Landesökonomie (der Wegebesserung, neuer Ansiedelungen, Anschaffung der Magazine für besorgliche Mißwachsjahre u. s. w.), außerhalb oder innerhalb dem Staate Hülfe zu suchen, ist diese Hülfsquelle unverdächtig. Aber, als entgegenwirkende Maschine der Mächte gegen einander, ist ein Creditsystem ins Unabsehliche anwachsender und doch immer für die gegenwärtige Forderung (weil sie doch nicht von allen Gläubigern auf einmal geschehen wird) gesicherter Schulden, — die sinnreiche Erfindung eines handeltreibenden Volks in diesem Jahrhundert —, eine gefährliche Geldmacht, nämlich ein Schatz zum Kriegführen, der die Schätze aller andern Staaten zusammengenommen übertrifft."
+        }
+      ]
+    },
+    {
+      "id": "welt",
+      "label": "Dritter Definitivartikel — Weltbürgerrecht und Kolonialismuskritik",
+      "cite": "ZeF Def. 3",
+      "units": [
+        {
+          "k": "1",
+          "text": "Es ist hier, wie in den vorigen Artikeln, nicht von Philanthropie, sondern vom Recht die Rede, und da bedeutet Hospitalität (Wirthbarkeit) das Recht eines Fremdlings, seiner Ankunft auf dem Boden eines andern wegen, von diesem nicht feindselig behandelt zu werden. […] Es ist kein Gastrecht, worauf dieser Anspruch machen kann […], sondern ein Besuchsrecht, welches allen Menschen zusteht, sich zur Gesellschaft anzubieten, vermöge des Rechts des gemeinschaftlichen Besitzes der Oberfläche der Erde, auf der, als Kugelfläche, sie sich nicht ins Unendliche zerstreuen können, sondern endlich sich doch neben einander dulden zu müssen, ursprünglich aber niemand an einem Orte der Erde zu seyn, mehr Recht hat, als der Andere."
+        },
+        {
+          "k": "2",
+          "text": "Auf diese Art können entfernte Welttheile mit einander friedlich in Verhältnisse kommen, die zuletzt öffentlich gesetzlich werden, und so das menschliche Geschlecht endlich einer weltbürgerlichen Verfassung immer näher bringen können. Vergleicht man hiemit das inhospitale Betragen der gesitteten, vornehmlich handeltreibenden Staaten unseres Welttheils, so geht die Ungerechtigkeit, die sie in dem Besuche fremder Länder und Völker (welches ihnen mit dem Erobern derselben für einerley gilt) beweisen, bis zum Erschrecken weit. Amerika, die Negerländer, die Gewürzinseln, das Kap &c. waren, bey ihrer Entdeckung, für sie Länder, die keinem angehörten; denn die Einwohner rechneten sie für nichts. In Ostindien (Hindustan) brachten sie, unter dem Vorwande blos beabsichtigter Handelsniederlagen, fremde Kriegesvölker hinein, mit ihnen aber Unterdrückung der Eingebohrnen, Aufwiegelung der verschiedenen Staaten desselben zu weit ausgebreiteten Kriegen, Hungersnoth, Aufruhr, Treulosigkeit, und wie die Litaney aller Uebel, die das menschliche Geschlecht drücken, weiter lauten mag."
+        }
+      ]
+    },
+    {
+      "id": "handel",
+      "label": "Erster Zusatz — der Handelsgeist",
+      "cite": "ZeF Zusatz 1",
+      "units": [
+        {
+          "k": "1",
+          "text": "So wie die Natur weislich die Völker trennt, welche der Wille jedes Staats, und zwar selbst nach Gründen des Völkerrechts, gern unter sich durch List oder Gewalt vereinigen möchte; so vereinigt sie auch andererseits Völker, die der Begriff des Weltbürgerrechts gegen Gewaltthätigkeit und Krieg nicht würde gesichert haben, durch den wechselseitigen Eigennutz. Es ist der Handelsgeist, der mit dem Kriege nicht zusammen bestehen kann, und der früher oder später sich jedes Volks bemächtigt. Weil nämlich unter allen, der Staatsmacht untergeordneten, Mächten (Mitteln), die Geldmacht wohl die zuverläßigste seyn möchte, so sehen sich Staaten (freylich wohl nicht eben durch Triebfedern der Moralität) gedrungen, den edlen Frieden zu befördern, und, wo auch immer in der Welt Krieg auszubrechen droht, ihn durch Vermittelungen abzuwehren."
+        },
+        {
+          "k": "2",
+          "text": "Auf die Art garantirt die Natur, durch den Mechanism in den menschlichen Neigungen selbst, den ewigen Frieden; freylich mit einer Sicherheit, die nicht hinreichend ist, die Zukunft desselben (theoretisch) zu weissagen, aber doch in praktischer Absicht zulangt, und es zur Pflicht macht, zu diesem (nicht bloß schimärischen) Zwecke hinzuarbeiten."
+        }
+      ]
+    }
+  ],
+  "exec": [
+    "Kants Handelsgeist-These war ein halbes Jahrhundert lang das Betriebssystem der deutschen Außenwirtschaftspolitik: „Wandel durch Handel“ ist ihre populäre Kurzfassung. Die Gegenwart — ein Angriffskrieg mitten in dichtester wirtschaftlicher Verflechtung — hat nicht die These widerlegt, wohl aber ihre stillschweigende Verabsolutierung: Kant selbst behauptet keine Garantie, sondern einen Mechanismus, der „in praktischer Absicht zulangt“ und zur Arbeit am Frieden verpflichtet; wer ihn als Automatismus las, hat den Konjunktiv überlesen. Für Entscheider ist der Text damit doppelt lehrreich: als Ursprung einer Denkschule, deren Erbe (Verflechtung schafft Interessen an Stabilität) real bleibt, und als Warnung davor, aus einer Tendenz eine Versicherung zu machen.",
+    "Unterschätzt sind die Präliminarartikel: Artikel 3 beschreibt die Rüstungsspirale als Gleichgewichtsproblem — Bereitschaft selbst wirkt als Drohung und erzeugt Gegenrüstung —, ein Mechanismus, der in Märkten als Kapazitäts- und Plattform-Wettrüsten wiederkehrt; Artikel 4 analysiert Staatsverschuldung als geopolitisches Machtmittel („eine gefährliche Geldmacht“) und liest sich wie ein Kommentar zur Waffenfähigkeit von Finanzsystemen, von Anleihemärkten bis zu Sanktionen. Das Weltbürgerrecht schließlich begründet offenen Austausch als Besuchsrecht — und zieht im selben Atemzug die Grenze, an der Handel in Eroberung umschlägt: Kants Abrechnung mit den Handelskompanien seiner Zeit ist die früheste deutsche Formulierung dessen, was heute unter Lieferketten-Verantwortung und den Menschenrechtspflichten global tätiger Unternehmen verhandelt wird."
+  ]
+}
