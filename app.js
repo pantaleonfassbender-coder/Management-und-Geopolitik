@@ -88,9 +88,10 @@ function viewOverview() {
       </div>
       <div class="card">
         <h3>Anwendungen</h3>
-        <p>Drei Begleitseiten wenden die Lesart an: ein täglicher, quellenbasierter Monitor zum
-        Krieg gegen die Ukraine, ein interaktiver Analogien-Generator — und ein deutschsprachiges
-        Lagebild zur Gefährdung von Amtsträgern. Mit kritischer Einordnung, was wozu passt.
+        <p>Vier Begleitseiten wenden die Lesart an: ein täglicher, quellenbasierter Monitor zum
+        Krieg gegen die Ukraine, ein interaktiver Analogien-Generator — und zwei deutschsprachige
+        Lagebilder, zur Gefährdung von Amtsträgern und zur Sicherheit kritischer Infrastruktur.
+        Mit kritischer Einordnung, was wozu passt.
         <a href="#/applications">Zu den Anwendungen →</a></p>
       </div>
       <div class="card">
@@ -643,7 +644,7 @@ function viewApplications() {
     <div class="viewhead">
       <span class="tag">Anwendungen</span>
       <h1>Der Korpus, auf die Gegenwart angewendet</h1>
-      <p class="lede">Drei Begleitseiten desselben Autors wenden diese Lesart auf laufende
+      <p class="lede">Vier Begleitseiten desselben Autors wenden diese Lesart auf laufende
       Ereignisse an. Sie sind frei zugänglich, trackerfrei und institutionell unabhängig — und sie
       passen unterschiedlich gut zu dieser Seite; die Einordnung dazu steht unten und verschweigt
       die Grenzen nicht.</p>
@@ -683,11 +684,24 @@ function viewApplications() {
         (<a href="#/work/thukydides/iii82/2">Thuk. III,82 [2]</a>), und ein Krisenzeichen im Sinne
         Burckhardts (<a href="#/work/burckhardt">Burckhardt</a>).</p>
       </div>
+      <div class="card appcard linie-trade">
+        <h2><a href="https://d-infrastrukurrisiko-monitor.netlify.app/" rel="noopener">Infrastruktur-Radar Deutschland</a></h2>
+        <p class="url">d-infrastrukurrisiko-monitor.netlify.app · deutschsprachig</p>
+        <p>Ein tägliches OSINT-Lagebild zur Sicherheit kritischer Infrastruktur in Deutschland —
+        Bahn, Energie, Telekommunikation, Industrie — mit Risiko-Index, Vorfallskarte und belegten
+        Quellen. Für Leser dieses Korpus die Gegenwartsprobe auf seine ökonomische Linie: das
+        Verkehrsnetz als Nervensystem der Nationalökonomie (<a href="#/work/list">List</a>), die
+        Bahn als strategisches Rückgrat (<a href="#/work/moltke">Moltke</a>), die Verwundbarkeit
+        der bewirtschafteten, vernetzten Wirtschaft (<a href="#/work/rathenau">Rathenau</a> ·
+        <a href="#/work/hoernigk">Hörnigk</a>) — und Sabotage unterhalb der Kriegsschwelle als
+        Prüfstein für Clausewitz’ Verhältnis von Zweck und Mitteln
+        (<a href="#/work/clausewitz">Clausewitz</a>).</p>
+      </div>
     </div>
 
     <div class="panel">
       <h2>Kritische Einordnung — was passt hier wozu?</h2>
-      <p class="readable">Die drei Werkzeuge wurden für diese Seite ausdrücklich geprüft, nicht nur
+      <p class="readable">Die vier Werkzeuge wurden für diese Seite ausdrücklich geprüft, nicht nur
       verlinkt. <strong>Ukraine War Monitor</strong> und <strong>Geopolitical Analogist</strong>
       passen inhaltlich am engsten — der eine als tägliche Empirie zu den Strukturen des Korpus,
       der andere als Umsetzung seiner Methode —, sind aber englischsprachig; wer die Quellen dieser
@@ -696,8 +710,16 @@ function viewApplications() {
       aber thematisch am Rand: Er beobachtet innere Gefährdungslagen, nicht Geopolitik. Er steht
       trotzdem hier, weil der Korpus selbst den Zusammenhang herstellt — die Verrohung der Begriffe
       und die Gewalt gegen Verantwortungsträger sind bei Thukydides, Weber und in Rathenaus
-      Biographie keine Innen-, sondern Ordnungsfragen. Wer nur eines der drei Werkzeuge nutzt,
-      wähle das zur eigenen Frage passende — nicht das sprachlich bequemste.</p>
+      Biographie keine Innen-, sondern Ordnungsfragen. Der <strong>Infrastruktur-Radar</strong>
+      ist ebenfalls deutschsprachig und liegt dem Korpus näher, als es zunächst scheint:
+      Verkehrswege, Energie und Kommunikation sind bei List, Moltke und Rathenau keine
+      technischen, sondern Ordnungsfragen — und ihre Sabotage ist die geoökonomische
+      Kampfform unterhalb der Kriegsschwelle. Seine Grenze muss ebenso klar benannt werden:
+      Der Risiko-Index ist eine KI-gestützte Heuristik aus offenen Quellen (GDELT, amtliche
+      Warnmeldungen, Suchrecherche), kein amtliches Lagebild — er taugt als täglicher Anstoß
+      zur eigenen Beobachtung entlang der verlinkten Quellen, nicht als Beleg. Wer nur eines
+      der vier Werkzeuge nutzt, wähle das zur eigenen Frage passende — nicht das sprachlich
+      bequemste.</p>
     </div>
 
     <div class="panel">
